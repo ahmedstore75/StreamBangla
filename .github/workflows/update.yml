@@ -10,17 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Update Playlist
+      - name: Download Latest Playlist
         run: |
-          curl -L "https://raw.githubusercontent.com/ahmedstore75/StreamBangla/main/BDIX-Playlist.m3u" -o BDIX-Playlist.m3u
+          curl -L "https://raw.githubusercontent.com/ahmedstore75/Iptvbdlive/main/mixiptvchannel.m3u" -o BDIX-Playlist.m3u
 
-      - name: Commit
+      - name: Commit Changes
         run: |
-          git config user.name github-actions
-          git config user.email actions@github.com
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
 
-          git add .
-          git commit -m "Auto Update" || exit 0
+          git add BDIX-Playlist.m3u
+          git commit -m "Auto update playlist" || exit 0
           git push
