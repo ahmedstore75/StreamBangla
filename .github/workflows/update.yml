@@ -1,4 +1,4 @@
-name: Auto Update IPTV
+name: Auto Merge IPTV
 
 on:
   schedule:
@@ -9,24 +9,29 @@ permissions:
   contents: write
 
 jobs:
-  update:
+  merge:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Download latest M3U
+      - name: Download Sources
         run: |
-          curl -L "https://raw.githubusercontent.com/ahmedstore75/Iptvbdlive/main/mixiptvchannel.m3u" -o BDIX-Playlist.m3u
+          curl -L "https://raw.githubusercontent.com/ahmedstore75/Iptvbdlive/main/mixiptvchannel.m3u" -o one.m3u
 
-      - name: Commit and Push
+          curl -L "https://iptv-org.github.io/iptv/index.m3u" -o two.m3u
+
+          curl -L "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u" -o three.m3u
+
+      - name: Merge
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          cat one.m3u two.m3u three.m3u > BDIX-Playlist.m3u
+
+      - name: Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
 
           git add BDIX-Playlist.m3u
-
-          git diff --cached --quiet || git commit -m "Auto update playlist"
-
+          git commit -m "Auto merge playlists" || exit 0
           git push
