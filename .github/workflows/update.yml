@@ -19,9 +19,9 @@ jobs:
         run: |
           curl -L "https://raw.githubusercontent.com/ahmedstore75/Iptvbdlive/main/mixiptvchannel.m3" -o one.m3u
 
-          curl -L "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Bangladesh/LiveTV.m3u" -o two.m3u
+          curl -L "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Bangladesh/LiveTV.m3" -o two.m3u
 
-          curl -L "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3" -o three.m3u
+          curl -L "https://raw.githubusercontent.com/abusaeeidx/Mrgify-BDIX-IPTV/main/playlist.m3u" -o three.m3u
 
       - name: Merge
         run: |
