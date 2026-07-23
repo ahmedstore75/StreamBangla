@@ -1,4 +1,4 @@
-Name: Auto Merge IPTV
+name: Auto Merge IPTV
 
 on:
   schedule:
