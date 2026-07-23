@@ -1,4 +1,4 @@
-const M3U_URL = "https://raw.githubusercontent.com/ahmedstore75/StreamBangla/main/BDIX-Playlist.m3u";
+const M3U_URL = "https://raw.githubusercontent.com/ahmedstore75/Iptvbdlive/main/mixiptvchannel.m3u";
 
 let allChannels = [];
 let uniqueCategories = new Set();
@@ -10,10 +10,11 @@ let currentLanguage = 'bn';
 let showRecentOnly = false; 
 let showFavoritesOnly = false; 
 
+// ভাষা সংক্রান্ত ডিকশনারি
 const dict = {
     bn: {
-        title: "স্ট্রিমি বাংলা - Premium Live Streaming",
-        logo: '<i class="fas fa-play"></i> স্ট্রিমি<span>বাংলা</span>',
+        title: "স্ট্রিম বাংলা - Premium Live Streaming",
+        logo: '<i class="fas fa-play"></i> স্ট্রিম<span>বাংলা</span>',
         menuTitle: "প্রিমিয়াম মেনু",
         themeDark: "ডার্ক মোড অ্যাক্টিভ",
         themeLight: "লাইট মোড অ্যাক্টিভ",
@@ -36,7 +37,7 @@ const dict = {
         favEmpty: "প্রিয় তালিকায় কোনো চ্যানেল যোগ করা হয়নি!",
         modalBody: "আপনি বর্তমানে সম্পূর্ণ ফ্রিতে লাইভ স্ট্রিমিং সেবা উপভোগ করছেন। এক্সক্লুসিভ পিওর কোয়ালিটি লাইভ টিভি বা কাস্টম ফিচারের আপদেশের জন্য আমাদের টেলিগ্রাম সাপোর্ট চ্যানেলে নজর রাখুন।",
         noticeLabel: "নোটিশ",
-        notice: "স্বাগতম স্ট্রিমি বাংলা লাইভ স্ট্রিমিং অ্যাপে! বাফারিং ছাড়া ঝকঝকে হাই-কোয়ালিটি লাইভ টিভি দেখতে আপনার ইন্টারনেট কানেকশন চেক করুন। কোনো চ্যানেল লোড না হলে মেনু থেকে প্লেলিস্ট রিফ্রেশ করুন। আমাদের সাথে থাকার জন্য ধন্যবাদ!",
+        notice: "স্বাগতম স্ট্রিম বাংলা লাইভ স্ট্রিমিং অ্যাপে! বাফারিং ছাড়া ঝকঝকে হাই-কোয়ালিটি লাইভ টিভি দেখতে আপনার ইন্টারনেট কানেকশন চেক করুন। কোনো চ্যানেল লোড না হলে মেনু থেকে প্লেলিস্ট রিফ্রেশ করুন। আমাদের সাথে থাকার জন্য ধন্যবাদ!",
         loaderText: "স্ট্রিমিং লোড হচ্ছে...",
         errTitle: "দুঃখিত! চ্যানেলটি লোড করা যাচ্ছে না",
         errDesc: "লিংকটি অফলাইন হতে পারে। প্লে-লিস্ট রিফ্রেশ করে আবার চেষ্টা করুন।"
@@ -73,6 +74,7 @@ const dict = {
     }
 };
 
+// DOM Element সমূহ নির্বাচন
 const playerEl = document.getElementById('video-player');
 const welcomeScreen = document.getElementById('welcome-screen');
 const listContainer = document.getElementById('channels-list');
@@ -95,27 +97,48 @@ const btnSupport = document.getElementById('btn-support');
 const premiumLoader = document.getElementById('player-premium-loader');
 const errorScreen = document.getElementById('player-error-screen');
 
-openMenuBtn.addEventListener('click', () => { drawer.classList.add('open'); overlay.style.display = 'block'; });
-const closeMenu = () => { drawer.classList.remove('open'); if(subModal.style.display !== 'block') overlay.style.display = 'none'; };
-closeMenuBtn.addEventListener('click', closeMenu);
-overlay.addEventListener('click', () => { closeMenu(); subModal.classList.remove('show'); setTimeout(()=>subModal.style.display='none', 300); });
+// ড্রয়ার ও মোডাল ইভেন্ট লিখন
+openMenuBtn.addEventListener('click', () => { 
+    drawer.classList.add('open'); 
+    overlay.style.display = 'block'; 
+});
 
+const closeMenu = () => { 
+    drawer.classList.remove('open'); 
+    if(subModal.style.display !== 'block') overlay.style.display = 'none'; 
+};
+
+closeMenuBtn.addEventListener('click', closeMenu);
+
+overlay.addEventListener('click', () => { 
+    closeMenu(); 
+    subModal.classList.remove('show'); 
+    setTimeout(() => subModal.style.display = 'none', 300); 
+});
+
+// হেল্প ও সাপোর্ট
 btnSupport.addEventListener('click', () => {
     closeMenu();
     const supportUrl = "https://t.me/banglatvlivefree";
     window.open(supportUrl, '_blank', 'noopener,noreferrer');
 });
 
+// সাবস্ক্রিপশন প্ল্যান মোডাল
 btnSubscription.addEventListener('click', () => {
     drawer.classList.remove('open');
     subModal.style.display = 'block';
     setTimeout(() => subModal.classList.add('show'), 10);
 });
+
 closeModalBtn.addEventListener('click', () => {
     subModal.classList.remove('show');
-    setTimeout(() => { subModal.style.display = 'none'; overlay.style.display = 'none'; }, 300);
+    setTimeout(() => { 
+        subModal.style.display = 'none'; 
+        overlay.style.display = 'none'; 
+    }, 300);
 });
 
+// সাম্প্রতিক চ্যানেল ফিল্টার
 btnRecent.addEventListener('click', () => {
     showFavoritesOnly = false;
     btnFavorites.style.background = "var(--card-bg)";
@@ -136,6 +159,7 @@ btnRecent.addEventListener('click', () => {
     closeMenu();
 });
 
+// প্রিয় চ্যানেল ফিল্টার
 btnFavorites.addEventListener('click', () => {
     showRecentOnly = false;
     btnRecent.style.background = "var(--card-bg)";
@@ -156,6 +180,7 @@ btnFavorites.addEventListener('click', () => {
     closeMenu();
 });
 
+// থিম পরিবর্তন (ডার্ক/লাইট মোড)
 const themeSwitch = document.getElementById('theme-toggle-switch');
 const themeText = document.getElementById('theme-text');
 const themeIcon = document.getElementById('theme-icon');
@@ -172,6 +197,7 @@ themeSwitch.addEventListener('change', () => {
     }
 });
 
+// ভাষা পরিবর্তন (বাংলা/ইংরেজি)
 const langToggle = document.getElementById('lang-toggle');
 langToggle.addEventListener('click', () => {
     currentLanguage = (currentLanguage === 'bn') ? 'en' : 'bn';
@@ -184,7 +210,9 @@ function updateCategoryDropdown() {
     categoryDropdown.innerHTML = `<option value="all" id="opt-all-cat">${currentLabels.allCat}</option>`;
     Array.from(uniqueCategories).sort().forEach(cat => {
         const option = document.createElement('option');
-        option.value = cat; option.textContent = cat; categoryDropdown.appendChild(option);
+        option.value = cat; 
+        option.textContent = cat; 
+        categoryDropdown.appendChild(option);
     });
     if (Array.from(uniqueCategories).includes(savedValue)) {
         categoryDropdown.value = savedValue;
@@ -226,13 +254,18 @@ function applyLanguage() {
     renderChannels(); 
 }
 
+// ভিডিও এসপেক্ট রেশিও সাইজ পরিবর্তন
 const aspectSelect = document.getElementById('aspect-ratio-select');
 const playerWrapper = document.getElementById('player-section-wrapper');
 aspectSelect.addEventListener('change', (e) => {
-    if(e.target.value === 'contain') { playerWrapper.classList.add('aspect-contained'); }
-    else { playerWrapper.classList.remove('aspect-contained'); }
+    if(e.target.value === 'contain') { 
+        playerWrapper.classList.add('aspect-contained'); 
+    } else { 
+        playerWrapper.classList.remove('aspect-contained'); 
+    }
 });
 
+// প্লে-লিস্ট রিফ্রেশ
 document.getElementById('refresh-player').addEventListener('click', () => {
     renderSkeletons();
     totalChannelCounter.textContent = "Total CH: 0";
@@ -247,6 +280,7 @@ document.getElementById('refresh-player').addEventListener('click', () => {
 searchInput.addEventListener('input', renderChannels);
 categoryDropdown.addEventListener('change', renderChannels);
 
+// স্কেলিটন লোডার
 function renderSkeletons() {
     listContainer.innerHTML = '';
     for(let i=0; i<9; i++) {
@@ -260,17 +294,24 @@ function renderSkeletons() {
     }
 }
 
+// M3U ফেচিং
 async function fetchPlaylist() {
     let loaded = false;
     try {
         const response = await fetch(M3U_URL);
-        if (response.ok) { const data = await response.text(); loaded = parseM3U(data); }
+        if (response.ok) { 
+            const data = await response.text(); 
+            loaded = parseM3U(data); 
+        }
     } catch (e) {}
 
     if (!loaded) {
         try {
             const res = await fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(M3U_URL)}`);
-            if (res.ok) { const json = await res.json(); loaded = parseM3U(json.contents); }
+            if (res.ok) { 
+                const json = await res.json(); 
+                loaded = parseM3U(json.contents); 
+            }
         } catch (e) {}
     }
 
@@ -283,9 +324,11 @@ async function fetchPlaylist() {
     }
 }
 
+// M3U পার্সার
 function parseM3U(text) {
     if (!text || !text.includes("#EXTM3U")) return false;
-    allChannels = []; uniqueCategories.clear();
+    allChannels = []; 
+    uniqueCategories.clear();
     const lines = text.split(/\r?\n/);
     let currentItem = null;
 
@@ -301,7 +344,9 @@ function parseM3U(text) {
             const commaIndex = line.lastIndexOf(',');
             currentItem.title = commaIndex !== -1 ? line.substring(commaIndex + 1).trim() : 'Live Channel';
         } else if (line.startsWith('http') && currentItem) {
-            currentItem.url = line; allChannels.push(currentItem); currentItem = null; 
+            currentItem.url = line; 
+            allChannels.push(currentItem); 
+            currentItem = null; 
         }
     }
 
@@ -313,12 +358,14 @@ function parseM3U(text) {
     return true;
 }
 
+// সার্চ টেক্সট হাইলাইট করা
 function highlightMatch(text, query) {
     if (!query) return text;
     const regex = new RegExp(`(${query.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')})`, 'gi');
     return text.replace(regex, '<span class="highlight-text">$1</span>');
 }
 
+// চ্যানেল তালিকা রেন্ডার করা
 function renderChannels() {
     const query = searchInput.value.toLowerCase().trim();
     const filterCat = categoryDropdown.value;
@@ -393,6 +440,7 @@ function renderChannels() {
     });
 }
 
+// ভিডিও স্ট্রিমিং প্লেয়ার
 function launchStream(channel) {
     welcomeScreen.style.opacity = '0';
     setTimeout(() => { welcomeScreen.style.display = 'none'; }, 400);
@@ -405,7 +453,8 @@ function launchStream(channel) {
     if (Hls.isSupported()) {
         if (hlsPlayer) { hlsPlayer.destroy(); }
         hlsPlayer = new Hls({ enableWorker: true, lowLatencyMode: true });
-        hlsPlayer.loadSource(channel.url); hlsPlayer.attachMedia(playerEl);
+        hlsPlayer.loadSource(channel.url); 
+        hlsPlayer.attachMedia(playerEl);
         
         hlsPlayer.on(Hls.Events.MANIFEST_PARSED, () => { 
             playerEl.play().catch(e => console.log(e)); 
@@ -421,7 +470,9 @@ function launchStream(channel) {
         });
     } else if (playerEl.canPlayType('application/vnd.apple.mpegurl')) {
         playerEl.src = channel.url;
-        playerEl.addEventListener('loadedmetadata', () => { playerEl.play().catch(e => console.log(e)); });
+        playerEl.addEventListener('loadedmetadata', () => { 
+            playerEl.play().catch(e => console.log(e)); 
+        });
         playerEl.addEventListener('error', () => {
             premiumLoader.style.display = 'none';
             errorScreen.style.display = 'flex';
@@ -430,6 +481,7 @@ function launchStream(channel) {
     }
 }
 
+// ভিডিও লোডিং ও এরর হ্যান্ডলিং
 playerEl.addEventListener('waiting', () => {
     if(currentActiveChannel) {
         playerEl.removeAttribute('controls');
@@ -449,6 +501,7 @@ playerEl.addEventListener('error', () => {
     }
 });
 
+// কিবোর্ড শর্টকাট
 window.addEventListener('keydown', (e) => {
     if (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'SELECT') return;
     
@@ -472,6 +525,7 @@ window.addEventListener('keydown', (e) => {
     }
 });
 
+// পেজ লোড হলে অ্যাপ চালানো
 window.addEventListener('DOMContentLoaded', () => {
     renderSkeletons();
     fetchPlaylist();
