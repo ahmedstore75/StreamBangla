@@ -43073,7 +43073,7 @@ https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 2026-07-25 02:02:07 (BD Time)
+# 🕒 Last Updated: 2026-07-25 04:01:54 (BD Time)
 # 📺 Channels Count: 428
 # 🔒 Usage: Personal / Educational
 #=================================
@@ -44275,8 +44275,8 @@ https://bd-mc-pdlive.fancode.com/mumbai/143513_english_hls_3b01c8cfce63305_1ta-d
 #EXTINF:-1 tvg-name="Day 2   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Fancode",Day 2   Main Feed [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246801_english_hls_20f63521cd26445_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-15186" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847942121020x576men.jpg" group-title="Tapmad", Birmingham Pheonix vs Trent Rocket | The Hundred Men's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-name="Day 2   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Fancode",Day 2   World Feed [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246802_english_hls_ed162f87aa89844_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
