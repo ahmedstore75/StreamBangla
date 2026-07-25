@@ -250,8 +250,17 @@ https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="Bangla Jago" tvg-logo="https://i.supaimg.com/0dc91d95-6d6b-41a8-a93f-88628861dd2f/63ad9523-b600-4106-aafd-7237755b7990.jpg",Bangla Jago
 https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8
+#EXTINF:-1 tvg-id="star_jalsha_hd" tvg-logo="http://monirul.bro.bd/assets/images/STAR JALSHA HD1745033819.png" group-title="Bangla",STAR JALSHA HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1 tvg-id="zee_bangla_cinema" tvg-logo="http://monirul.bro.bd/assets/images/ZEE BANGLA CINEMA1745040996.png" group-title="Bangla",ZEE BANGLA CINEMA
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="zee_bangla_hd" tvg-logo="http://monirul.bro.bd/assets/images/ZEE BANGLA HD1745033633.png" group-title="Bangla",ZEE BANGLA HD
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-name="Enterr 10 Bangla" tvg-logo="https://i.ibb.co.com/PCq6jWp/Enterr10-Bangla.jpg",Enterr 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="jalsha_movies_hd" tvg-logo="http://monirul.bro.bd/assets/images/JALSHA MOVIES HD1745034005.png" group-title="Bangla",JALSHA MOVIES HD
+http://103.191.99.248:5550/303/index.m3u8
+http://monirul.bro.bd/sm/stream.php?id=jalsha_movies_hd&e=.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/db363850-ad01-4b64-9790-b3f7cc793513_180x180_Cartoon-Network.jpg",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-name="Dw News" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/85bbed0f-b7cd-41a1-9f14-466951111e09.png",Dw News
@@ -43075,8 +43084,8 @@ https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 2026-07-25 17:02:05 (BD Time)
-# 📺 Channels Count: 434
+# 🕒 Last Updated: 2026-07-25 18:01:59 (BD Time)
+# 📺 Channels Count: 437
 # 🔒 Usage: Personal / Educational
 #=================================
 
@@ -44271,6 +44280,12 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
 
+#EXTINF:-1 tvg-name="India Vs Zimbabwe [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",India Vs Zimbabwe [LIVE]
+Unavailable
+
+#EXTINF:-1 tvg-name="India Vs Zimbabwe [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-IND_T20Is_fc-web.jpg" group-title="Fancode",India Vs Zimbabwe [LIVE]
+Unavailable
+
 #EXTINF:-1 tvg-name="Pakistan Women Vs Sri Lanka Women [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sri-Lanka-vs-Pakistan-Womens-ODI-Series-Old-Match-card.jpg" group-title="Fancode",Pakistan Women Vs Sri Lanka Women [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8
 
@@ -44280,14 +44295,14 @@ Unavailable
 #EXTINF:-1 tvg-name="Galle Gallants Vs Kandy Royals [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762377/4246722_CASACARDS_SPORTY_APP.png" group-title="Fancode",Galle Gallants Vs Kandy Royals [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="Fancode",Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247198_english_hls_4e2b6a33c555878_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Day 6 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/The-ATP250_fc-web.jpg" group-title="Fancode",Day 6 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143508_english_hls_92168a39226791_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Sprint Race [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_GP_Old_match-card.jpg" group-title="Fancode",Sprint Race [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/139735_english_hls_aee5160e7e79607_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Race 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Fancode",Race 1 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143799_english_hls_c362f1d13033774_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Qualifying Session [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Porsche-Mobil-1-Supercup_Austria_Match_card_MRF_Old_match-card.jpg" group-title="Fancode",Qualifying Session [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143612_english_hls_a1a0e23e4d13951_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Day 3   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Fancode",Day 3   World Feed [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247419_english_hls_7529753d6233196_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-15221" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848753681020x576women.jpg" group-title="Tapmad", Sunrisers Leeds vs Southern Brave - Women | The Hundred Women's Competition 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
@@ -44297,6 +44312,9 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u
 
 #EXTINF:-1 tvg-id="tapmad-15472" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847981811020x576.jpg" group-title="Tapmad", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-15384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848783901020x576.jpg" group-title="Tapmad", EA Sports FC 26 - Day 4 | Esports World Cup 2026 (EWC)
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
 
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
