@@ -43068,8 +43068,8 @@ https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 2026-07-25 22:02:01 (BD Time)
-# 📺 Channels Count: 434
+# 🕒 Last Updated: 2026-07-26 00:01:52 (BD Time)
+# 📺 Channels Count: 433
 # 🔒 Usage: Personal / Educational
 #=================================
 
@@ -44264,23 +44264,20 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Netherlands Vs Namibia [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246705_52990_NAM_NED_fc-App.png" group-title="Fancode",Netherlands Vs Namibia [LIVE]
-Unavailable
-
 #EXTINF:-1 tvg-name="Colombo Kaps Vs Dambulla Sixers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762376/4246721_CASACARDS_SPORTY_APP.png" group-title="Fancode",Colombo Kaps Vs Dambulla Sixers [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Day 3   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Fancode",Day 3   World Feed [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247419_english_hls_7529753d6233196_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="Day 3   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Fancode",Day 3   Main Feed [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246803_english_hls_7c0d958ec349342_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-15187" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848756971020x576men.jpg" group-title="Tapmad", Sunrisers Leeds vs Southern Brave | The Hundred Men's Competition 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-name="Day 6 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/104.png" group-title="Fancode",Day 6 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143514_english_hls_9205c863a887330_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Day 3   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Fancode",Day 3   World Feed [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246804_english_hls_4519eb4cde71293_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-15335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg" group-title="Tapmad", West indies vs Pakistan | Pakistan Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8
