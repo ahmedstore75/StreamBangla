@@ -43082,8 +43082,8 @@ https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 2026-07-26 19:01:54 (BD Time)
-# 📺 Channels Count: 432
+# 🕒 Last Updated: 2026-07-26 20:02:22 (BD Time)
+# 📺 Channels Count: 435
 # 🔒 Usage: Personal / Educational
 #=================================
 
@@ -44278,23 +44278,32 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/37788832c8/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Jaffna Kings Vs Kandy Royals [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246728_CASACARDS_SPORTY_APP.png" group-title="Fancode",Jaffna Kings Vs Kandy Royals [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4246728_english_hls_b1babec60422402_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="Galle Gallants Vs Dambulla Sixers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762383/4246713_CASACARDS_SPORTY_APP.png" group-title="Fancode",Galle Gallants Vs Dambulla Sixers [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4246713_english_hls_17e2efa8db87720_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-name="San Francisco Unicorns Vs Perth Scorchers Xi [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784653587314/4247431_CASACARDS_SPORTY_APP.png" group-title="Fancode",San Francisco Unicorns Vs Perth Scorchers Xi [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247431_english_hls_2e615b273261719_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-name="Day 4   World Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ISPS-Handa-Womens-Scottish-Open-2026-old-match-card.jpg" group-title="Fancode",Day 4   World Feed [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4247420_english_hls_e4f538fa6759596_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-name="Race 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Fancode",Race 2 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143801_english_hls_0f8f9524c923636_1ta-di_h264/index.m3u8
-
 #EXTINF:-1 tvg-name="Day 4   Main Feed [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/3M-Open-2026-old.png" group-title="Fancode",Day 4   Main Feed [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="tapmad-15417" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849001381020x576.jpg" group-title="Tapmad", Pakistan vs Uzbekistan | CAVA Men's Volleyball Championship 2026
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-name="Adac Gt Race 2   Oschersleben [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-MatchCard_1784602530930.png" group-title="Fancode",Adac Gt Race 2   Oschersleben [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143806_english_hls_755651821f97335_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-15335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg" group-title="Tapmad", West indies vs Pakistan | Pakistan Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-15362" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848964711020x576.jpg" group-title="Tapmad", Men's Semi Final B Session - World Championships Kaunas, Lithuania Live | UIPM 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-15189" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848901421020x576men.jpg" group-title="Tapmad", Manchester Super Giants vs Birmingham Pheonix | The Hundred Men's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-15385" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17848938841020x576.jpg" group-title="Tapmad", EA Sports FC 26 - Day 5 | Esports World Cup 2026 (EWC)
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
