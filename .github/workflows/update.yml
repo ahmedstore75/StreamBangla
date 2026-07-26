@@ -1,4 +1,4 @@
-name: Auto Merge IPTV
+Name: Auto Merge IPTV
 
 on:
   schedule:
@@ -18,16 +18,58 @@ jobs:
       - name: Download Sources
         run: |
           curl -L "https://raw.githubusercontent.com/ahmedstore75/Iptvbdlive/main/mixiptvchannel.m3u" -o one.m3u
-
           curl -L "https://raw.githubusercontent.com/ahan443/FAST-IPTV/refs/heads/main/combined_playlist.m3u" -o two.m3u
-
           curl -L "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/Bangladesh/LiveTV.m3u" -o three.m3u
-          
           curl -L "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Combined_Live_TV.m3u" -o four.m3u
 
-      - name: Merge
+      - name: Merge and Filter Unique Stream URLs
         run: |
-          cat one.m3u two.m3u three.m3u four.m3u > BDIX-Playlist.m3u
+          cat one.m3u two.m3u three.m3u four.m3u > temp_raw.m3u
+
+          python3 -c '
+          import re
+
+          with open("temp_raw.m3u", "r", encoding="utf-8", errors="ignore") as f:
+              lines = [line.strip() for line in f if line.strip()]
+
+          seen_urls = set()
+          output_lines = ["#EXTM3U"]
+
+          i = 0
+          while i < len(lines):
+              line = lines[i]
+
+              # #EXTINF লাইন শনাক্ত করা
+              if line.startswith("#EXTINF"):
+                  extinf_line = line
+                  i += 1
+                  
+                  # মাঝখানে অতিরিক্ত কোনো হ্যাশ ট্যাগের লাইন থাকলে তা স্কিপ করে মূল URL পর্যন্ত যাওয়া
+                  while i < len(lines) and lines[i].startswith("#"):
+                      i += 1
+
+                  if i < len(lines):
+                      stream_url = lines[i]
+                      # যদি স্ট্রিমিং URL আগে থেকে তালিকায় না থাকে
+                      if stream_url not in seen_urls:
+                          seen_urls.add(stream_url)
+                          output_lines.append(extinf_line)
+                          output_lines.append(stream_url)
+              
+              # যদি #EXTINF ছাড়া সরাসরি প্লেলিস্টে ডিরেক্ট URL থেকে থাকে
+              elif not line.startswith("#"):
+                  if line not in seen_urls:
+                      seen_urls.add(line)
+                      output_lines.append(line)
+              
+              i += 1
+
+          with open("BDIX-Playlist.m3u", "w", encoding="utf-8") as f:
+              for line in output_lines:
+                  f.write(line + "\n")
+          '
+
+          rm temp_raw.m3u
 
       - name: Push
         run: |
@@ -35,5 +77,5 @@ jobs:
           git config user.email "actions@github.com"
 
           git add BDIX-Playlist.m3u
-          git commit -m "Auto merge playlists" || exit 0
+          git commit -m "Auto merge and filter duplicate m3u8 URLs" || exit 0
           git push
