@@ -24,14 +24,14 @@ channel_entries = []
 movie_entries = []
 radio_entries = []
 
-# ১. ভিওডি/মুভি কন্টেন্ট ফিল্টার
+# ১. ভিওডি / মুভি ফিল্টার কিওয়ার্ড
 vod_keywords = [
     "vod", "series", "episode", "season", "1080p", "720p", "4k",
     "bluray", "web-dl", "webrip", "hdrip", "dvdrip", "x264", "hevc", "full movie"
 ]
 movie_extensions = ['.mp4', '.mkv', '.avi', '.mov', '.flv', '.webm']
 
-# ২. সুনির্দিষ্ট রেডিও ফিল্টার (কোথাও 'stream' শব্দটি নেই)
+# ২. রেডিও ফিল্টার কিওয়ার্ড
 radio_keywords = ["radio", " fm", "fm ", "-fm", "fm-", "audio", "betar", "বাংলাদেশ বেতার"]
 radio_extensions = ['.mp3', '.aac', '.ogg', '.pls']
 
@@ -46,16 +46,17 @@ while i < len(raw_lines):
         if i < len(raw_lines):
             stream_url = raw_lines[i]
 
+            # হুবহু পুরো স্ট্রিম ইউআরএল একবার ফিল্টার করার চেক
             if stream_url not in seen_urls:
                 seen_urls.add(stream_url)
                 
                 combined_text = (extinf_line + " " + stream_url).lower()
 
-                # ক. রেডিও চেকিং (স্ট্রিক্ট লজিক)
+                # ক. রেডিও চেকিং
                 is_radio_ext = any(ext in stream_url.lower() for ext in radio_extensions)
                 is_radio_kw = any(kw in combined_text for kw in radio_keywords)
 
-                # খ. অন-ডিমান্ড মুভি চেকিং
+                # খ. মুভি ও ভিওডি চেকিং
                 is_movie_ext = any(stream_url.lower().endswith(ext) or (ext + "?") in stream_url.lower() for ext in movie_extensions)
                 is_vod_kw = any(kw in combined_text for kw in vod_keywords)
 
@@ -63,10 +64,10 @@ while i < len(raw_lines):
                 is_fixed_duration = False
                 if duration_match:
                     duration = int(duration_match.group(1))
-                    if duration > 1800: # ৩০ মিনিটের বেশি ফিক্সড ডিউরেশন
+                    if duration > 1800:
                         is_fixed_duration = True
 
-                # নির্দিষ্ট ফাইলে ভাগ করা
+                # ক্যাটাগরি অনুযায়ী ফিল্টার করা
                 if is_radio_ext or is_radio_kw:
                     radio_entries.append((extinf_line, stream_url))
                 elif is_movie_ext or is_vod_kw or is_fixed_duration:
@@ -96,7 +97,7 @@ updated_time_str = bd_time.strftime("%Y-%m-%d %H:%M:%S (BD Time)")
 
 epg_url = "https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALJAZEERA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ASIANTELEVISION1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BE2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BEIN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DELUXEMUSIC1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DRAFTKINGS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_EG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FI1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_GR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JM1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JP2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_KR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_LV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PAC-12.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_POWERNATION1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_DE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_EN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_ES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_FR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_IT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_NL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_PL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RALLY_TV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SA2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SE1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SPORTKLUB1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SSPORTPLUS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TBNPLUS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_THESPORTPLUS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_TR3.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_VN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_VOA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_viva-russia.ru.xml.gz"
 
-# ১. টিভি প্লেলিস্ট ফাইল (BDIX-Playlist.m3u)
+# ১. টিভি প্লেলিস্ট
 with open("BDIX-Playlist.m3u", "w", encoding="utf-8") as f:
     f.write(f'#EXTM3U x-tvg-url="{epg_url}"\n\n')
     f.write("#=================================\n")
@@ -111,7 +112,7 @@ with open("BDIX-Playlist.m3u", "w", encoding="utf-8") as f:
             f.write(extinf + "\n")
         f.write(stream_url + "\n")
 
-# ২. মুভি প্লেলিস্ট ফাইল (BDIX-Movies.m3u)
+# ২. মুভি প্লেলিস্ট
 with open("BDIX-Movies.m3u", "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n\n")
     f.write("#=================================\n")
@@ -127,7 +128,7 @@ with open("BDIX-Movies.m3u", "w", encoding="utf-8") as f:
             f.write(extinf + "\n")
         f.write(stream_url + "\n")
 
-# ৩. রেডিও প্লেলিস্ট ফাইল (BDIX-Radio.m3u)
+# ৩. রেডিও প্লেলিস্ট
 with open("BDIX-Radio.m3u", "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n\n")
     f.write("#=================================\n")
@@ -143,4 +144,4 @@ with open("BDIX-Radio.m3u", "w", encoding="utf-8") as f:
             f.write(extinf + "\n")
         f.write(stream_url + "\n")
 
-print(f"Done! Channels: {len(channel_entries)}, Movies: {len(movie_entries)}, Radio: {len(radio_entries)}")
+print(f"Complete! Unique Channels: {len(channel_entries)}, Movies: {len(movie_entries)}, Radios: {len(radio_entries)}")
