@@ -20,11 +20,12 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Merge and Generate Playlist
+      - name: Merge, Filter Movies and Generate Playlist
         run: |
           python3 -c '
           import urllib.request
           import datetime
+          import re
 
           urls = [
               "https://raw.githubusercontent.com/ahmedstore75/Iptvbdlive/main/mixiptvchannel.m3u",
@@ -46,6 +47,17 @@ jobs:
           seen_urls = set()
           channel_entries = []
 
+          # m3u8 সহ অন্যান্য মুভি/অন-ডিমান্ড কন্টেন্ট চেনার কি-ওয়ার্ড
+          movie_keywords = [
+              "movie", "movies", "vod", "cinema", "film", "films", "series", 
+              "drama", "episode", "season", "1080p", "720p", "4k", "bluray", 
+              "web-dl", "webrip", "hdrip", "dvdrip", "x264", "hevc",
+              "bangla movie", "south movie", "hindi movie", "english movie"
+          ]
+          
+          # মুভি ফাইলের সরাসরি এক্সটেনশন
+          movie_extensions = [".mp4", ".mkv", ".avi", ".mov", ".flv", ".webm"]
+
           i = 0
           while i < len(raw_lines):
               line = raw_lines[i]
@@ -56,13 +68,36 @@ jobs:
                       i += 1
                   if i < len(raw_lines):
                       stream_url = raw_lines[i]
-                      if stream_url not in seen_urls:
-                          seen_urls.add(stream_url)
-                          channel_entries.append((extinf_line, stream_url))
+                      
+                      # ১. ভিডিও ফাইল এক্সটেনশন আছে কিনা
+                      is_movie_ext = any(stream_url.lower().endswith(ext) or (ext + "?") in stream_url.lower() for ext in movie_extensions)
+                      
+                      # ২. EXTINF লাইন অথবা URL-এর ভেতরে মুভি/অন-ডিমান্ড কি-ওয়ার্ড আছে কিনা
+                      combined_text = (extinf_line + " " + stream_url).lower()
+                      is_movie_keyword = any(kw in combined_text for kw in movie_keywords)
+
+                      # ৩. EXTINF লাইনে নির্দিষ্ট দৈর্ঘ্য উল্লেখ থাকলে (যেমন: -1 না হয়ে দীর্ঘ কোনো সেকেন্ডের সংখ্যা থাকলে)
+                      # চ্যানেল সাধারণত tvg-id বা group-title যুক্ত থাকে
+                      duration_match = re.search(r'#EXTINF:([0-9]+)', extinf_line)
+                      is_long_duration = False
+                      if duration_match:
+                          duration = int(duration_match.group(1))
+                          if duration > 1800: # ৩০ মিনিটের বেশি লম্বা ফিক্সড ডিউরেশন হলে মুভি হিসেবে ধরা হবে
+                              is_long_duration = True
+
+                      # যদি মুভি না হয় এবং লিঙ্কটি আগে না এসে থাকে, তবেই যুক্ত হবে
+                      if not is_movie_ext and not is_movie_keyword and not is_long_duration:
+                          if stream_url not in seen_urls:
+                              seen_urls.add(stream_url)
+                              channel_entries.append((extinf_line, stream_url))
               elif not line.startswith("#"):
-                  if line not in seen_urls:
-                      seen_urls.add(line)
-                      channel_entries.append(("", line))
+                  stream_url = line
+                  is_movie_ext = any(stream_url.lower().endswith(ext) or (ext + "?") in stream_url.lower() for ext in movie_extensions)
+                  is_movie_keyword = any(kw in stream_url.lower() for kw in movie_keywords)
+                  
+                  if not is_movie_ext and not is_movie_keyword and stream_url not in seen_urls:
+                      seen_urls.add(stream_url)
+                      channel_entries.append(("", stream_url))
               i += 1
 
           total_channels = len(channel_entries)
@@ -93,5 +128,5 @@ jobs:
           git config user.email "actions@github.com"
 
           git add BDIX-Playlist.m3u
-          git commit -m "Auto merge, dynamic count & unique URLs" || exit 0
+          git commit -m "Auto merge, filter m3u8 movies & unique TV channels" || exit 0
           git push
