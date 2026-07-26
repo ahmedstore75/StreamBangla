@@ -41,14 +41,15 @@ while i < len(raw_lines):
     if line.startswith("#EXTINF"):
         extinf_line = line
         i += 1
+        # মেটাডাটা বা এক্সট্রা কোনো ট্যাগ থাকলে স্কিপ করে অরিজিনাল ইউআরএল খুঁজে বের করা
         while i < len(raw_lines) and raw_lines[i].startswith("#"):
             i += 1
         if i < len(raw_lines):
             stream_url = raw_lines[i]
 
-            # হুবহু পুরো স্ট্রিম ইউআরএল একবার ফিল্টার করার চেক
+            # 🛑 শুধুমাত্র স্ট্রিমিং ইউআরএল ডুপ্লিকেট কি না চেক করা হচ্ছে (লোগো বাEXTINF বাদ দিয়ে)
             if stream_url not in seen_urls:
-                seen_urls.add(stream_url)
+                seen_urls.add(stream_url)  # ইউনিক স্ট্রিমিং ইউআরএল সেভ করা হলো
                 
                 combined_text = (extinf_line + " " + stream_url).lower()
 
@@ -67,7 +68,7 @@ while i < len(raw_lines):
                     if duration > 1800:
                         is_fixed_duration = True
 
-                # ক্যাটাগরি অনুযায়ী ফিল্টার করা
+                # নির্দিষ্ট ক্যাটাগরিতে পাঠানো
                 if is_radio_ext or is_radio_kw:
                     radio_entries.append((extinf_line, stream_url))
                 elif is_movie_ext or is_vod_kw or is_fixed_duration:
@@ -77,6 +78,7 @@ while i < len(raw_lines):
 
     elif not line.startswith("#"):
         stream_url = line
+        # 🛑 শুধুমাত্র স্ট্রিমিং ইউআরএল ইউনিক কি না চেক
         if stream_url not in seen_urls:
             seen_urls.add(stream_url)
             url_lower = stream_url.lower()
@@ -144,4 +146,4 @@ with open("BDIX-Radio.m3u", "w", encoding="utf-8") as f:
             f.write(extinf + "\n")
         f.write(stream_url + "\n")
 
-print(f"Complete! Unique Channels: {len(channel_entries)}, Movies: {len(movie_entries)}, Radios: {len(radio_entries)}")
+print(f"Complete! Unique Stream URLs -> TV: {len(channel_entries)}, Movies: {len(movie_entries)}, Radios: {len(radio_entries)}")
