@@ -28,6 +28,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add BDIX-Playlist.m3u BDIX-Movies.m3u
-          git commit -m "Auto split channels and movies" || exit 0
+          git add BDIX-Playlist.m3u BDIX-Movies.m3u BDIX-Radio.m3u
+          git commit -m "Split TV, Movies & Radio playlists" || exit 0
           git push
