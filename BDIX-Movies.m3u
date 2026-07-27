@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-27 18:46:54 (BD Time)
-# 🍿 Movies Count: 13241
+# 🕒 Last Updated: 2026-07-27 22:05:25 (BD Time)
+# 🍿 Movies Count: 13243
 #=================================
 
 #EXTINF:-1 tvg-name="OAN" tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d" group-title="News",OAN
@@ -26490,3 +26490,7 @@ https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="Legislative",Sangsad TV (1080p)
 https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-15335" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17845507451020x576.jpg" group-title="Tapmad", West indies vs Pakistan | Pakistan Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15225" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851365361020x576women.jpg" group-title="Tapmad", Southern Brave vs MI London - Women | The Hundred Women's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8

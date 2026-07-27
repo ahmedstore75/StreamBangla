@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-27 18:46:54 (BD Time)
-# 📺 Channels Count: 3017
+# 🕒 Last Updated: 2026-07-27 22:05:25 (BD Time)
+# 📺 Channels Count: 3019
 #=================================
 
 #EXTINF:-1 tvg-id="Z Bangla sonar Low" tvg-name="Z Bangla sonar Low" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Bangla",Zee Bangla Sonar
@@ -6036,5 +6036,9 @@ http://tvsen7.aynascope.net/ibtvusa/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
 ✅✅ BANGLADESHI ✅✅
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1531202.m3u8
+#EXTINF:-1 tvg-name="West Indies Vs Pakistan [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-Tour-of-West-Indies-2026-old1.png" group-title="Fancode",West Indies Vs Pakistan [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Namibia Vs Nepal [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4246707_52990_NAM_NEP_fc-App.png" group-title="Fancode",Namibia Vs Nepal [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246707_english_hls_fefe03448672489_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="World Feed   Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed   Day 1 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143640_english_hls_6cd30c2cc670542_1ta-di_h264/index.m3u8
