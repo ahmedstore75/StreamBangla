@@ -21,27 +21,32 @@ for url in urls:
         print(f"Error fetching {url}: {e}")
 
 seen_urls = set()
-channel_map = defaultdict(list)
+
+# চ্যানেল অনুযায়ী হেডার এবং তার স্ট্রিমিং লিঙ্কগুলো জমা করার ডিকশনারি
+# Structure: { channel_key: {"header": extinf_line, "urls": [url1, url2, ...]} }
+channel_map = {}
 movie_entries = []
 radio_entries = []
 
+# ভিওডি / মুভি ফিল্টার কিওয়ার্ড
 vod_keywords = [
     "vod", "series", "episode", "season", "1080p", "720p", "4k",
     "bluray", "web-dl", "webrip", "hdrip", "dvdrip", "x264", "hevc", "full movie"
 ]
 movie_extensions = ['.mp4', '.mkv', '.avi', '.mov', '.flv', '.webm']
 
+# রেডিও ফিল্টার কিওয়ার্ড
 radio_keywords = ["radio", " fm", "fm ", "-fm", "fm-", "audio", "betar", "বাংলাদেশ বেতার"]
 radio_extensions = ['.mp3', '.aac', '.ogg', '.pls']
 
-def get_clean_channel_name(extinf):
-    """EXTINF থেকে চ্যানেলের মূল নাম ক্লিন করে বের করে নেওয়া"""
+def extract_channel_key(extinf):
+    """চ্যানেলের মূল নাম বের করার ফাংশন যাতে একই নামের চ্যানেলকে একটি গ্রুপের মধ্যে আনা যায়"""
     if ',' in extinf:
         name = extinf.split(',')[-1].strip()
-        # সার্ভার বা এইচডি শব্দ সরিয়ে মূল নাম বের করা
-        name_clean = re.sub(r'\s*\b(hd|sd|fhd|4k|720p|1080p|bdix|server\s*\d+|src\s*\d+|bkp|backup)\b', '', name, flags=re.IGNORECASE)
-        return name_clean.strip() if name_clean.strip() else name
-    return "Unknown Channel"
+        # SD, HD, BDIX, Server শব্দগুলো সরিয়ে মূল নাম বের করা
+        name_clean = re.sub(r'\s*\b(hd|sd|fhd|4k|720p|1080p|bdix|server\s*\d+|src\s*\d+)\b', '', name, flags=re.IGNORECASE)
+        return name_clean.strip().lower() if name_clean.strip() else name.lower()
+    return "unknown"
 
 i = 0
 while i < len(raw_lines):
@@ -54,6 +59,7 @@ while i < len(raw_lines):
         if i < len(raw_lines):
             stream_url = raw_lines[i]
 
+            # ডুপ্লিকেট ইউআরএল স্কিপ করা
             if stream_url not in seen_urls:
                 seen_urls.add(stream_url)
                 
@@ -77,8 +83,14 @@ while i < len(raw_lines):
                 elif is_movie_ext or is_vod_kw or is_fixed_duration:
                     movie_entries.append((extinf_line, stream_url))
                 else:
-                    ch_name = get_clean_channel_name(extinf_line)
-                    channel_map[ch_name.lower()].append((extinf_line, stream_url, ch_name))
+                    # একই চ্যানেলের লিঙ্কগুলো একত্রে জমা করা
+                    ch_key = extract_channel_key(extinf_line)
+                    if ch_key not in channel_map:
+                        channel_map[ch_key] = {
+                            "header": extinf_line,
+                            "urls": []
+                        }
+                    channel_map[ch_key]["urls"].append(stream_url)
 
     elif not line.startswith("#"):
         stream_url = line
@@ -94,7 +106,13 @@ while i < len(raw_lines):
             elif is_movie:
                 movie_entries.append(("", stream_url))
             else:
-                channel_map["others"].append(('EXTINF:-1 group-title="Others", Unknown Channel', stream_url, "Unknown Channel"))
+                ch_key = "others"
+                if ch_key not in channel_map:
+                    channel_map[ch_key] = {
+                        "header": '#EXTINF:-1 group-title="Others", Unknown Channel',
+                        "urls": []
+                    }
+                channel_map[ch_key]["urls"].append(stream_url)
     i += 1
 
 bd_time = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=6)))
@@ -102,7 +120,7 @@ updated_time_str = bd_time.strftime("%Y-%m-%d %H:%M:%S (BD Time)")
 
 epg_url = "https://epgshare01.online/epgshare01/epg_ripper_AL1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# টিভি প্লেলিস্ট সেভ
+# ১. টিভি প্লেলিস্ট তৈরি
 with open("BDIX-Playlist.m3u", "w", encoding="utf-8") as f:
     f.write(f'#EXTM3U x-tvg-url="{epg_url}"\n\n')
     f.write("#=================================\n")
@@ -111,36 +129,28 @@ with open("BDIX-Playlist.m3u", "w", encoding="utf-8") as f:
     f.write(f"# 🕒 Last Updated: {updated_time_str}\n")
     f.write("#=================================\n\n")
     
+    # চ্যানেল নাম অনুযায়ী সর্ট করে একটি #EXTINF-এর নিচে সব লিঙ্ক বসানো
     for ch_key in sorted(channel_map.keys()):
-        items = channel_map[ch_key]
-        for index, (extinf, stream_url, clean_name) in enumerate(items, start=1):
-            # প্লেয়ারের অটো-সুইচ সুবিধার জন্য সার্ভার ১, ২, ৩ আকারে সাজানো
-            if len(items) > 1:
-                display_name = f"{clean_name} (Server {index})"
-            else:
-                display_name = clean_name
+        item = channel_map[ch_key]
+        f.write(item["header"] + "\n")  # শুধুমাত্র ১বার #EXTINF বসবে
+        for url in item["urls"]:
+            f.write(url + "\n")          # তার নিচে একে একে লিঙ্কগুলো বসবে
+        f.write("\n")
 
-            # EXTINF লাইনে সঠিক চ্যানেলের নাম পুনর্স্থাপন
-            if ',' in extinf:
-                base_extinf = extinf.rsplit(',', 1)[0]
-                updated_extinf = f"{base_extinf},{display_name}"
-            else:
-                updated_extinf = f'#EXTINF:-1 group-title="Bangla",{display_name}'
-
-            f.write(updated_extinf + "\n")
-            f.write(stream_url + "\n")
-
-# মুভি ও রেডিও প্লেলিস্ট
+# ২. মুভি প্লেলিস্ট সেভ
 with open("BDIX-Movies.m3u", "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n\n")
     for extinf, stream_url in movie_entries:
-        if extinf: f.write(extinf + "\n")
+        if extinf:
+            f.write(extinf + "\n")
         f.write(stream_url + "\n")
 
+# ৩. রেডিও প্লেলিস্ট সেভ
 with open("BDIX-Radio.m3u", "w", encoding="utf-8") as f:
     f.write("#EXTM3U\n\n")
     for extinf, stream_url in radio_entries:
-        if extinf: f.write(extinf + "\n")
+        if extinf:
+            f.write(extinf + "\n")
         f.write(stream_url + "\n")
 
-print("Auto-failover/backup arrangement complete!")
+print("একই চ্যানেলের নিচে একাধিক লিঙ্ক যুক্ত করে প্লেলিস্ট সফলভাবে তৈরি করা হয়েছে!")
