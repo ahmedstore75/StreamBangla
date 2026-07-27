@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-27 11:34:39 (BD Time)
-# 📺 Channels Count: 3102
+# 🕒 Last Updated: 2026-07-27 15:01:18 (BD Time)
+# 📺 Channels Count: 3104
 #=================================
 
 #EXTINF:-1 tvg-id="Z Bangla sonar Low" tvg-name="Z Bangla sonar Low" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Bangla",Zee Bangla Sonar
@@ -6208,3 +6208,7 @@ http://xown.site/token/stream.php?id=1488751&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwG
 http://tvsen7.aynascope.net/ibtvusa/index.m3u8
 ✅✅ BANGLADESHI ✅✅
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1531202.m3u8
+#EXTINF:-1 tvg-id="tapmad-15368" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851318142.jpg" group-title="Tapmad", Women's Final Session - WC Kaunas, Lithuania Live | UIPM 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15419" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17849006281020x576.jpg" group-title="Tapmad", Bangladesh vs Sri Lanka | CAVA Men's Volleyball Championship 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
