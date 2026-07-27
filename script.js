@@ -1,4 +1,4 @@
-const M3U_URL = "https://raw.githubusercontent.com/ahmedstore75/Iptvbdlive/main/mixiptvchannel.m3u";
+const M3U_URL = "https://raw.githubusercontent.com/ahmedstore75/StreamBangla/refs/heads/main/BDIX-Playlist.m3u";
 
 let allChannels = [];
 let uniqueCategories = new Set();
