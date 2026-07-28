@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-28 10:49:51 (BD Time)
-# 📺 Channels Count: 3035
+# 🕒 Last Updated: 2026-07-28 14:08:51 (BD Time)
+# 📺 Channels Count: 3034
 #=================================
 
 #EXTINF:-1 tvg-id="Z Bangla sonar Low" tvg-name="Z Bangla sonar Low" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Bangla",Zee Bangla Sonar
@@ -6068,9 +6068,7 @@ https://fifa.assadikb.workers.dev/?id=zee_cafe_hd
 https://fifa.assadikb.workers.dev/?id=zee_anmol
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 https://fifa.assadikb.workers.dev/?id=zee_tv_hd
-#EXTINF:-1 tvg-name="San Francisco Unicorns Vs Desert Vipers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784653587294/4247440_CASACARDS_SPORTY_APP.png" group-title="Fancode",San Francisco Unicorns Vs Desert Vipers [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4247440_english_hls_4a73bf788950453_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="Fancode",Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4247199_english_hls_fafdc64d5b45648_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg" group-title="Fancode",Day 1 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143516_english_hls_15cd232f9a95019_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-15422" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17851597511020x576.jpg" group-title="Tapmad", Uzbekistan vs Bangladesh | CAVA Men's Volleyball Championship 2026
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
