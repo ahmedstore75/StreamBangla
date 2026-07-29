@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-29 04:46:46 (BD Time)
-# 📺 Channels Count: 3032
+# 🕒 Last Updated: 2026-07-29 07:16:16 (BD Time)
+# 📺 Channels Count: 3035
 #=================================
 
 #EXTINF:-1 tvg-id="Z Bangla sonar Low" tvg-name="Z Bangla sonar Low" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Bangla",Zee Bangla Sonar
@@ -6068,3 +6068,9 @@ http://tvsen7.aynascope.net/ibtvusa/index.m3u8
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1531202.m3u8
 #EXTINF:-0 tvg-logo="https://www.tbn24.com/logo.png" group-title="SM All TV",Star Gold
 http://66.102.126.10:8000/play/a00f/index.m3u8
+#EXTINF:-1 tvg-name="Perth Scorchers Xi Vs Desert Vipers [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784653587313/4247435_CASACARDS_SPORTY_APP.png" group-title="Fancode",Perth Scorchers Xi Vs Desert Vipers [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/4247435_english_hls_ff499ca61529460_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="Day 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg" group-title="Fancode",Day 2 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143517_english_hls_026d19806b81456_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-name="World Feed 2 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mubadala_Web-match-card.png" group-title="Fancode",World Feed 2 [LIVE]
+https://bd-mc-pdlive.fancode.com/mumbai/143643_english_hls_adfe3dbeb394633_1ta-di_h264/index.m3u8
