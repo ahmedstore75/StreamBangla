@@ -4,7 +4,7 @@
 # 📻 Live Radio Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-29 14:13:39 (BD Time)
+# 🕒 Last Updated: 2026-07-29 17:51:50 (BD Time)
 # 📻 Radio Count: 4871
 #=================================
 
@@ -102,8 +102,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/1725-audio_113552_eng=113200-vid
 https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Radio FM ",Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png" group-title="Bangla News",BD | Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Information",Discovery HD Multi Audio
 https://stream.ottplus.bd/live/discovery_sd_abr/live/discovery_sd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png" group-title="Information",Investigation Discovery Multi Audio
@@ -120,6 +118,8 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
 #EXTINF:-1 tvg-logo="https://tvchannels4all.com/tvonline/madtv.png" group-title="Music",OTHER | MAD
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png" group-title="Bangla News",BD | Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fyRyDBlkIARJmFRvkUvR1d4poCM.jpg" group-title="Movies - Bangla",Aajo Ardhangini (2026) 🆕
 http://cinehub24.com/ftp/Movies/indianbangla/new/Aajo%20Ardhangini%20%282026%29/Aajo.Ardhangini.2026.1080p.Bangla.AAC.HDTC.h264.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ezqTX0oQtRlJD30zj9twWPEBR7t.jpg" group-title="Movies - Bangla",Phutaniganjer Mahesh (2026) 🆕
