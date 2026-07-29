@@ -4,8 +4,8 @@
 # 📻 Live Radio Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-29 07:16:16 (BD Time)
-# 📻 Radio Count: 4873
+# 🕒 Last Updated: 2026-07-29 10:55:04 (BD Time)
+# 📻 Radio Count: 4871
 #=================================
 
 #EXTINF:-1 tvg-name="Saudia Radio" tvg-logo="https://s3.aynaott.com/storage/76d7d7446ee57ec14ff67c1678725d19" group-title="Latest",Saudia Radio
@@ -98,14 +98,12 @@ https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a4
 https://n0b.radiojar.com/gmwyu8xdrxquv?rj-ttl=5&rj-tok=AAABmefVT0cAEC8yJftxyPNsng
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="Bangla",BTV World
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/1725-audio_113552_eng=113200-video=2202800.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RngmCDn.png" group-title="Sports",Futbol (1080p)
-https://live.teleradiocom.tj/8/3m.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZcUXbE.png" group-title="Sports",Radio Turrialba TV Sports (720p)
-https://sc2.escuela4.com/live/92974f62a8d5e5caf8f6d1c98fe9b2615f2238c5.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="FM REDIO",Quran
 https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Radio FM ",Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png" group-title="Bangla News",BD | Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Information",Discovery HD Multi Audio
 https://stream.ottplus.bd/live/discovery_sd_abr/live/discovery_sd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png" group-title="Information",Investigation Discovery Multi Audio
@@ -122,8 +120,6 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
 #EXTINF:-1 tvg-logo="https://tvchannels4all.com/tvonline/madtv.png" group-title="Music",OTHER | MAD
 http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Ekattor_TV_logo.png" group-title="Bangla News",BD | Ekattor TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fyRyDBlkIARJmFRvkUvR1d4poCM.jpg" group-title="Movies - Bangla",Aajo Ardhangini (2026) 🆕
 http://cinehub24.com/ftp/Movies/indianbangla/new/Aajo%20Ardhangini%20%282026%29/Aajo.Ardhangini.2026.1080p.Bangla.AAC.HDTC.h264.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ezqTX0oQtRlJD30zj9twWPEBR7t.jpg" group-title="Movies - Bangla",Phutaniganjer Mahesh (2026) 🆕
@@ -162,6 +158,14 @@ http://cinehub24.com/ftp/Movies/indianbangla/2000-2020/Maacher%20Jhol%20%282017%
 http://cinehub24.com/ftp/Movies/indianbangla/2000-2020/Nagarkirtan%20%282017%29/Nagarkirtan.2017.Bengali.720p.Hoichoi.WEB-DL.ESub.AAC.2CH.x264.Shadow%20%28BonsaiHD%29.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1WJl1ZBg51hBx5UA39vrC39F7Ft.jpg" group-title="Movies - Bangla",Parbona Ami Chartey Tokey (2015)
 https://dl.dropboxusercontent.com/scl/fi/u1tqqxvlnbm9brkdgahui/Parbo.Na.Aami.Chartey.Toke.2017.720p.AMZN.WebRip.AAC2.0.H.264-MovieLinkBD.mkv?rlkey=7b7bs70bhivbglli2yivc29mp&dl=1.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg" group-title="Movies - English",Disclosure Day (2026) 🆕
+http://cinehub24.com/ftp/Movies/hollywood/2026/Disclosure%20Day%20%282026%29/Disclosure.Day.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.GG%20-%20YTS.BZ%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vAMPpEvaW9EmRwFmzFMaM8wS3KV.jpg" group-title="Movies - English",Fireflies At El Mozote (2026) 🆕
+http://cinehub24.com/ftp/Movies/hollywood/2026/Fireflies%20At%20El%20Mozote%20%282026%29/Fireflies.At.El.Mozote.2026.720p.WEBRip.x264.AAC-%5BYTS.GG%20-%20YTS.BZ%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bArhvjRHl535XMaSh9VjInF2mSZ.jpg" group-title="Movies - English",Resident Evil Welcome To Raccoon City (2021) 🆕
+http://cinehub24.com/ftp/Movies/hollywood/2026/Resident%20Evil%20Welcome%20To%20Raccoon%20City%20%282021%29/Resident.Evil.Welcome.To.Raccoon.City.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg" group-title="Movies - English",The Death Of Robin Hood (2026) 🆕
+http://cinehub24.com/ftp/Movies/hollywood/2026/The%20Death%20Of%20Robin%20Hood%20%282026%29/The.Death.Of.Robin.Hood.2026.RETAIL.DKSUBS.720p.WEBRip.x264.AAC-%5BYTS.GG%20-%20YTS.BZ%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j7QvlPXWzOKis1HpHKGbmWZ9WX7.jpg" group-title="Movies - English",Ein Sommer In Italien WM 1990 (2026) 🆕
 http://cinehub24.com/ftp/Movies/hollywood/2026/Ein%20Sommer%20In%20Italien%20-%20WM%201990%20%282026%29/Ein.Sommer.In.Italien.-.WM.1990.2026.2026.720p.BluRay.x264.AAC-%5BYTS.GG%20-%20YTS.BZ%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/a9W2203QLRqBT3a6EVDECc8g9Y2.jpg" group-title="Movies - English",Golden Kamuy Abashiri Kangoku Shugeki-hen (2026) 🆕
@@ -328,8 +332,6 @@ http://cinehub24.com/ftp/Movies/hollywood/2026/The%20Fairfield%20County%20Four%2
 http://cinehub24.com/ftp/Movies/hollywood/2026/The%20God%20Of%20Frogs%20%282026%29/The.God.Of.Frogs.2026.1080p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eyd4sCE3sa3iOgr1mR02lcrIybr.jpg" group-title="Movies - English",The Huntsman (2026)
 http://cinehub24.com/ftp/Movies/hollywood/2026/The%20Huntsman%20%282026%29/The.Huntsman.2026.720p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/29Jdsak3SrwGds5k1t43kH6Khed.jpg" group-title="Movies - English",The Legend Of Aang The Last Airbender (2026)
-http://cinehub24.com/ftp/Movies/animation/new/The%20Legend%20Of%20Aang%20The%20Last%20Airbender%20%282026%29/The.Legend.Of.Aang.The.Last.Airbender.2026.1080p.WEBRip.x264.AAC-%5BYTS.BZ%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg" group-title="Movies - English",The Mortuary Assistant (2026)
 http://cinehub24.com/ftp/Movies/hollywood/2026/The%20Mortuary%20Assistant%20%282026%29/The.Mortuary.Assistant.2026.1080p.WEBRip.x264.AAC5.1-%5BYTS.BZ%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fD0wfZifpJQGOTPboSVXQ3XI3DV.jpg" group-title="Movies - English",The Voices Of Our Mother (2026)
@@ -494,8 +496,6 @@ http://cinehub24.com/ftp/Movies/hollywood/2025/Chelsea%20Handler%20The%20Feeling
 http://cinehub24.com/ftp/Movies/hollywood/2025/Chiquita%20%282025%29/Chiquita.2025.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pEIt2IF1egnQzqkXE41ZPkKN1KF.jpg" group-title="Movies - English",Christmas Of Giving (2025)
 http://cinehub24.com/ftp/Movies/hollywood/2025/Christmas%20Of%20Giving%20%282025%29/Christmas.Of.Giving.2025.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vroJQMcR4hynkuFbqMhjA4NjOTK.jpg" group-title="Movies - English",Christy (2025)
-http://cinehub24.com/ftp/Movies/hollywood/2025/Christy%20%282025%29/Christy.2025.720p.WEBRip.x264.AAC-%5BYTS.LT%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cTa1gSyUrvByw2uILt8iyJHbcRb.jpg" group-title="Movies - English",Clown In A Cornfield (2025)
 http://cinehub24.com/ftp/Movies/hollywood/2025/Clown%20In%20A%20Cornfield%20%282025%29/Clown.In.A.Cornfield.2025.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iA5ZHflyzsxmR09Ce53w9Ng0tIx.jpg" group-title="Movies - English",Con Mum (2025)
@@ -1188,8 +1188,6 @@ http://cinehub24.com/ftp/Movies/hollywood/2024/12%20To%20Midnight%20%282024%29/1
 http://cinehub24.com/ftp/Movies/hollywood/2025/2073%20%282024%29/2073.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/toEJOPYvM7Na0XwM8exg8aHq553.jpg" group-title="Movies - English",5lbs Of Pressure (2024)
 http://cinehub24.com/ftp/Movies/hollywood/2024/5lbs%20Of%20Pressure%20%282024%29/5lbs.Of.Pressure.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5NSQOsIFShUNFNE4fzsM6KdUbxr.jpg" group-title="Movies - English",72 Hours (2024)
-http://cinehub24.com/ftp/Movies/hollywood/2024/72%20Hours%20%282024%29/72.Hours.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/llWl3GtNoXosbvYboelmoT459NM.jpg" group-title="Movies - English",A Complete Unknown (2024)
 http://cinehub24.com/ftp/Movies/hollywood/2025/A%20Complete%20Unknown%20%282024%29/A.Complete.Unknown.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ccYPtLstIoNW1zkWzOQg2MC0qs3.jpg" group-title="Movies - English",A Costa Rican Wedding (2024)
@@ -6988,8 +6986,6 @@ http://cinehub24.com/ftp/Movies/hollywood/2021/Reloaded%20%282021%29/Reloaded.20
 http://cinehub24.com/ftp/Movies/hollywood/2021/Reminiscence%20%282021%29/Reminiscence.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u8Mgy1UKexJfXjsTsglD83HkL5Z.jpg" group-title="Movies - English",Reno 911 The Hunt For QAnon (2021)
 http://cinehub24.com/ftp/Movies/hollywood/2021/Reno%20911%20The%20Hunt%20For%20QAnon%20%282021%29/Reno.911.The.Hunt.For.QAnon.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bArhvjRHl535XMaSh9VjInF2mSZ.jpg" group-title="Movies - English",Resident Evil Welcome To Raccoon City (2021)
-http://cinehub24.com/ftp/Movies/hollywood/2021/Resident%20Evil%20Welcome%20To%20Raccoon%20City%20%282021%29/Resident.Evil.Welcome.To.Raccoon.City.2021.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7w4gX4zRlONqThjhmjdxw93FAXt.jpg" group-title="Movies - English",Resort To Love (2021)
 http://cinehub24.com/ftp/Movies/hollywood/2021/Resort%20To%20Love%20%282021%29/Resort.To.Love.2021.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iUtPwOBZJc8uJnDqlCXTibdgxKz.jpg" group-title="Movies - English",Respect (2021)
