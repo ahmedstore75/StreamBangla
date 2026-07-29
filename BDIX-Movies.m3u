@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-29 19:29:35 (BD Time)
-# 🍿 Movies Count: 12900
+# 🕒 Last Updated: 2026-07-29 21:43:05 (BD Time)
+# 🍿 Movies Count: 12902
 #=================================
 
 #EXTINF:-1 tvg-name="OAN" tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d" group-title="News",OAN
@@ -25808,3 +25808,7 @@ https://tplay.live/out/bangladesh/ekhontv.index.m3u8
 https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jkouxLg.png" group-title="Legislative",Sangsad TV (1080p)
 https://bozztv.com/rongo/rongo-SangsadTV/index.m3u8
+#EXTINF:-1 tvg-id="tapmad-15193" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17852352931020x576men.jpg" group-title="Tapmad", Welsh Fire vs Trent Rockets | The Hundred Men's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15228" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17852362661020x576women.jpg" group-title="Tapmad", MI London vs London Spirirts - Women | The Hundred Women's Competition 2026
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
