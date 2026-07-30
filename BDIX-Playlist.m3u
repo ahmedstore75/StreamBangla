@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-30 21:44:30 (BD Time)
-# 📺 Channels Count: 2309
+# 🕒 Last Updated: 2026-07-30 23:12:04 (BD Time)
+# 📺 Channels Count: 2308
 #=================================
 
 #EXTINF:-1 tvg-id="Z Bangla sonar Low" tvg-name="Z Bangla sonar Low" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Bangla",Zee Bangla Sonar
@@ -4470,8 +4470,6 @@ https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-tv-hd.png" group-title="SM_IPTV",Zee TV HD
 https://fifa.assadikb.workers.dev/?id=zee_tv_hd
-#EXTINF:-1 tvg-name="Sri Lankan Lions Vs Afghanistan Pathans [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248200_53019_SLO_AFP_fc-web.jpg" group-title="Fancode",Sri Lankan Lions Vs Afghanistan Pathans [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/4248200_english_hls_9780c44d6569459_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Jaffna Kings Vs Kandy Royals [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1784105762378/4246720_CASACARDS_SPORTY_APP.png" group-title="Fancode",Jaffna Kings Vs Kandy Royals [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-name="Main Feed   Day 1 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Rocket-Classic_fc-web.jpg" group-title="Fancode",Main Feed   Day 1 [LIVE]
