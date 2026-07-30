@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-30 17:43:37 (BD Time)
-# 🍿 Movies Count: 102
+# 🕒 Last Updated: 2026-07-30 19:19:40 (BD Time)
+# 🍿 Movies Count: 173
 #=================================
 
 #EXTINF:-1 tvg-name="OAN" tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d" group-title="News",OAN
@@ -202,6 +202,148 @@ https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live/index.m3u8
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 1.png", ┃RO┃ DIGI SPORT 1 4K
+http://iptvlive-beta.vercel.app/ro-digi-sport-1-4k/index.m3u8
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 2.png", ┃RO┃ DIGI SPORT 2 4K
+http://iptvlive-beta.vercel.app/ro-digi-sport-2-4k/index.m3u8
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 3.png", ┃RO┃ DIGI SPORT 3 4K
+http://iptvlive-beta.vercel.app/ro-digi-sport-3-4k/index.m3u8
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI SPORT 4.png", ┃RO┃ DIGI SPORT 4 4K
+http://iptvlive-beta.vercel.app/ro-digi-sport-4-4k/index.m3u8
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/DIGI 4K.png", ┃RO┃ DIGI 4K
+http://iptvlive-beta.vercel.app/ro-digi-4k/index.m3u8
+#EXTINF:-1 group-title="┃RO┃ CANALE SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ROMANIA/┃RO┃ CANALE SPORT/EUROSPORT.png", ┃RO┃ EUROSPORT 4K
+http://iptvlive-beta.vercel.app/ro-eurosport-4k/index.m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png", ┃HR┃ MAX SPORT 1 4K
+http://iptvlive-beta.vercel.app/hr-max-sport-1-4k/index.m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png", ┃HR┃ MAX SPORT 2 4K
+http://iptvlive-beta.vercel.app/hr-max-sport-2-4k/index.m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png", ┃HR┃ ARENA SPORT 10 4K
+http://iptvlive-beta.vercel.app/hr-arena-sport-10-4k/index.m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png", ┃HR┃ ARENA FIGHT 4K
+http://iptvlive-beta.vercel.app/hr-arena-fight-4k/index.m3u8
+#EXTINF:-1 group-title="┃HR┃ ARENA SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/BOSNA/Arena_sport_logo.png", ┃HR┃ ARENA E SPORT 4K
+http://iptvlive-beta.vercel.app/hr-arena-e-sport-4k/index.m3u8
+#EXTINF:-1 group-title="┃TR┃ S SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Ssport.png", ┃TR┃ S SPORT 1 4K
+http://iptvlive-beta.vercel.app/tr-s-sport-1-4k/index.m3u8
+#EXTINF:-1 group-title="┃TR┃ S SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Ssport.png", ┃TR┃ S SPORT 2 4K
+http://iptvlive-beta.vercel.app/tr-s-sport-2-4k/index.m3u8
+#EXTINF:-1 group-title="┃TR┃ S SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/sporsmart.png", ┃TR┃ SPOR SMART 1 4K
+http://iptvlive-beta.vercel.app/tr-spor-smart-1-4k/index.m3u8
+#EXTINF:-1 group-title="┃TR┃ S SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/sporsmart.png", ┃TR┃ SPOR SMART 2 4K
+http://iptvlive-beta.vercel.app/tr-spor-smart-2-4k/index.m3u8
+#EXTINF:-1 group-title="┃TR┃ S SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Eurosport.png", ┃TR┃ EUROSPORT 1 4K
+http://iptvlive-beta.vercel.app/tr-eurosport-1-4k/index.m3u8
+#EXTINF:-1 group-title="┃TR┃ S SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/Eurosport.png", ┃TR┃ EUROSPORT 2 4K
+http://iptvlive-beta.vercel.app/tr-eurosport-2-4k/index.m3u8
+#EXTINF:-1 group-title="┃TR┃ S SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/NBA_TV_II.png", ┃TR┃ NBA TV 4K
+http://iptvlive-beta.vercel.app/tr-nba-tv-4k/index.m3u8
+#EXTINF:-1 group-title="┃TR┃ S SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/fightbox.png", ┃TR┃ FIGHTBOX 4K
+http://iptvlive-beta.vercel.app/tr-fightbox-4k/index.m3u8
+#EXTINF:-1 group-title="┃TR┃ BEIN SPORTS FHD" tvg-logo="http://picon.tivi-ott.net:25461/picon/TURKEY/BEIN SPORTS/BEIN SPORTS 1.png", ┃TR┃ BEIN SPORTS 1 HEVC (MAÇ ZAMANI)
+http://iptvlive-beta.vercel.app/tr-bein-sports-1-hevc-ma-zamani/index.m3u8
+#EXTINF:-1 group-title="┃PT┃ SPORT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/CANAL 11.png", ┃PT┃ CANAL 11 FHD HEVC
+http://iptvlive-beta.vercel.app/pt-canal-11-fhd-hevc/index.m3u8
+#EXTINF:-1 group-title="┃PT┃ SPORT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV+.png", ┃PT┃ SPORT TV+ FHD HEVC
+http://iptvlive-beta.vercel.app/pt-sport-tv-fhd-hevc/index.m3u8
+#EXTINF:-1 group-title="┃PT┃ SPORT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 1.png", ┃PT┃ SPORT TV 1 4K UHD
+http://iptvlive-beta.vercel.app/pt-sport-tv-1-4k-uhd/index.m3u8
+#EXTINF:-1 group-title="┃PT┃ SPORT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 1.png", ┃PT┃ SPORT TV 1 FHD HEVC
+http://iptvlive-beta.vercel.app/pt-sport-tv-1-fhd-hevc/index.m3u8
+#EXTINF:-1 group-title="┃PT┃ SPORT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 2.png", ┃PT┃ SPORT TV 2 FHD HEVC
+http://iptvlive-beta.vercel.app/pt-sport-tv-2-fhd-hevc/index.m3u8
+#EXTINF:-1 group-title="┃PT┃ SPORT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 3.png", ┃PT┃ SPORT TV 3 FHD HEVC
+http://iptvlive-beta.vercel.app/pt-sport-tv-3-fhd-hevc/index.m3u8
+#EXTINF:-1 group-title="┃PT┃ SPORT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 4.png", ┃PT┃ SPORT TV 4 FHD HEVC
+http://iptvlive-beta.vercel.app/pt-sport-tv-4-fhd-hevc/index.m3u8
+#EXTINF:-1 group-title="┃PT┃ SPORT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 5.png", ┃PT┃ SPORT TV 5 FHD HEVC
+http://iptvlive-beta.vercel.app/pt-sport-tv-5-fhd-hevc/index.m3u8
+#EXTINF:-1 group-title="┃PT┃ SPORT TV" tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORT TV/SPORT TV 6.png", ┃PT┃ SPORT TV 6 FHD HEVC
+http://iptvlive-beta.vercel.app/pt-sport-tv-6-fhd-hevc/index.m3u8
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTUNO.png", ┃IT┃ SKY SPORT UNO HEVC
+http://iptvlive-beta.vercel.app/it-sky-sport-uno-hevc/index.m3u8
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORT24.png", ┃IT┃ SKY SPORT 24 HEVC
+http://iptvlive-beta.vercel.app/it-sky-sport-24-hevc/index.m3u8
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTCALCIO.png", ┃IT┃ SKY SPORT CALCIO HEVC
+http://iptvlive-beta.vercel.app/it-sky-sport-calcio-hevc/index.m3u8
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTACTION.png", ┃IT┃ SKY SPORT GOLF HEVC
+http://iptvlive-beta.vercel.app/it-sky-sport-golf-hevc/index.m3u8
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTARENA.png", ┃IT┃ SKY SPORT ARENA HEVC
+http://iptvlive-beta.vercel.app/it-sky-sport-arena-hevc/index.m3u8
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTFOOTBALL.png", ┃IT┃ SKY SPORT MAX HEVC
+http://iptvlive-beta.vercel.app/it-sky-sport-max-hevc/index.m3u8
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTF1.png", ┃IT┃ SKY SPORT F1 HEVC
+http://iptvlive-beta.vercel.app/it-sky-sport-f1-hevc/index.m3u8
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTMOTOGP.png", ┃IT┃ SKY SPORT MOTOGP HEVC
+http://iptvlive-beta.vercel.app/it-sky-sport-motogp-hevc/index.m3u8
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKY SPORT TENNIS.png", ┃IT┃ SKY SPORT TENNIS HEVC
+http://iptvlive-beta.vercel.app/it-sky-sport-tennis-hevc/index.m3u8
+#EXTINF:-1 group-title="┃IT┃ SKY SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/SKYSPORTNBA.png", ┃IT┃ SKY SPORT NBA HEVC
+http://iptvlive-beta.vercel.app/it-sky-sport-nba-hevc/index.m3u8
+#EXTINF:-1 group-title="┃IT┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ITALY/Supertennis_logo.png", ┃IT┃ SUPER TENNIS 4K
+http://iptvlive-beta.vercel.app/it-super-tennis-4k/index.m3u8
+#EXTINF:-1 group-title="┃CY┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", ┃CY┃ CYTAVISION SPORT 1 4K
+http://iptvlive-beta.vercel.app/cy-cytavision-sport-1-4k/index.m3u8
+#EXTINF:-1 group-title="┃CY┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", ┃CY┃ CYTAVISION SPORT 2 4K
+http://iptvlive-beta.vercel.app/cy-cytavision-sport-2-4k/index.m3u8
+#EXTINF:-1 group-title="┃CY┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", ┃CY┃ CYTAVISION SPORT 3 4K
+http://iptvlive-beta.vercel.app/cy-cytavision-sport-3-4k/index.m3u8
+#EXTINF:-1 group-title="┃CY┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", ┃CY┃ CYTAVISION SPORT 4 4K
+http://iptvlive-beta.vercel.app/cy-cytavision-sport-4-4k/index.m3u8
+#EXTINF:-1 group-title="┃CY┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", ┃CY┃ CYTAVISION SPORT 5 4K
+http://iptvlive-beta.vercel.app/cy-cytavision-sport-5-4k/index.m3u8
+#EXTINF:-1 group-title="┃CY┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", ┃CY┃ CYTAVISION SPORT 6 4K
+http://iptvlive-beta.vercel.app/cy-cytavision-sport-6-4k/index.m3u8
+#EXTINF:-1 group-title="┃CY┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/cytavision.png", ┃CY┃ CYTAVISION SPORT 7 4K
+http://iptvlive-beta.vercel.app/cy-cytavision-sport-7-4k/index.m3u8
+#EXTINF:-1 group-title="┃CY┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/Cablenet-logo_Transparent_No-Services.png", ┃CY┃ CABELNET SPORT 1 4K
+http://iptvlive-beta.vercel.app/cy-cabelnet-sport-1-4k/index.m3u8
+#EXTINF:-1 group-title="┃CY┃ SPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/CYPRUS/Cablenet-logo_Transparent_No-Services.png", ┃CY┃ CABELNET SPORT 2 4K
+http://iptvlive-beta.vercel.app/cy-cabelnet-sport-2-4k/index.m3u8
+#EXTINF:-1 group-title="┃GR┃ COSMOTE SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/COSMOTETV.png", ┃GR┃ COSMOTE SPORT 4K
+http://iptvlive-beta.vercel.app/gr-cosmote-sport-4k/index.m3u8
+#EXTINF:-1 group-title="┃AL┃ DIGITALB SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png", ┃AL┃ SUPER SPORT 1 HEVC
+http://iptvlive-beta.vercel.app/al-super-sport-1-hevc/index.m3u8
+#EXTINF:-1 group-title="┃AL┃ DIGITALB SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png", ┃AL┃ SUPER SPORT 2 HEVC
+http://iptvlive-beta.vercel.app/al-super-sport-2-hevc/index.m3u8
+#EXTINF:-1 group-title="┃AL┃ DIGITALB SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png", ┃AL┃ SUPER SPORT 3 HEVC
+http://iptvlive-beta.vercel.app/al-super-sport-3-hevc/index.m3u8
+#EXTINF:-1 group-title="┃AL┃ DIGITALB SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png", ┃AL┃ SUPER SPORT 4 HEVC
+http://iptvlive-beta.vercel.app/al-super-sport-4-hevc/index.m3u8
+#EXTINF:-1 group-title="┃AL┃ DIGITALB SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png", ┃AL┃ SUPER SPORT 5 HEVC
+http://iptvlive-beta.vercel.app/al-super-sport-5-hevc/index.m3u8
+#EXTINF:-1 group-title="┃AL┃ DIGITALB SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png", ┃AL┃ SUPER SPORT 6 HEVC
+http://iptvlive-beta.vercel.app/al-super-sport-6-hevc/index.m3u8
+#EXTINF:-1 group-title="┃AL┃ DIGITALB SUPERSPORT" tvg-logo="http://picon.tivi-ott.net:25461/picon/ALBANIA/SUPERSPORT.png", ┃AL┃ SUPER SPORT 7 HEVC
+http://iptvlive-beta.vercel.app/al-super-sport-7-hevc/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png", ┃UK┃ BEIN SPORTS 1 EN FHD HEVC
+http://iptvlive-beta.vercel.app/uk-bein-sports-1-en-fhd-hevc/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png", ┃UK┃ BEIN SPORTS 2 EN FHD HEVC
+http://iptvlive-beta.vercel.app/uk-bein-sports-2-en-fhd-hevc/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS.png", ┃UK┃ ☰☰☰☰ ┃UK┃ BEIN SPORTS EN 4K (MATCH TIME) ☰☰☰☰
+http://iptvlive-beta.vercel.app/uk-uk-bein-sports-en-4k-match-time/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png", ┃UK┃ BEIN SPORTS 1 4K EN FHD (MATCH TIME)
+http://iptvlive-beta.vercel.app/uk-bein-sports-1-4k-en-fhd-match-time/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png", ┃UK┃ EIN SPORTS 2 4K EN FHD (MATCH TIME)
+http://iptvlive-beta.vercel.app/uk-ein-sports-2-4k-en-fhd-match-time/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png", ┃UK┃ BEIN SPORTS 1 4K EN HEVC FHD (MATCH TIME)
+http://iptvlive-beta.vercel.app/uk-bein-sports-1-4k-en-hevc-fhd-match-time/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png", ┃UK┃ BEIN SPORTS 2 4K EN HEVC FHD (MATCH TIME)
+http://iptvlive-beta.vercel.app/uk-bein-sports-2-4k-en-hevc-fhd-match-time/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png", ┃UK┃ BEIN SPORTS 1 4K EN HD (MATCH TIME)
+http://iptvlive-beta.vercel.app/uk-bein-sports-1-4k-en-hd-match-time/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png", ┃UK┃ BEIN SPORTS 2 4K EN HD (MATCH TIME)
+http://iptvlive-beta.vercel.app/uk-bein-sports-2-4k-en-hd-match-time/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png", ┃UK┃ BEIN SPORTS 1 4K EN SD (MATCH TIME)
+http://iptvlive-beta.vercel.app/uk-bein-sports-1-4k-en-sd-match-time/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png", ┃UK┃ BEIN SPORTS 2 4K EN SD (MATCH TIME)
+http://iptvlive-beta.vercel.app/uk-bein-sports-2-4k-en-sd-match-time/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 1.png", ┃UK┃ BEIN SPORTS 1 UHD EN HEVC (MATCH TIME)
+http://iptvlive-beta.vercel.app/uk-bein-sports-1-uhd-en-hevc-match-time/index.m3u8
+#EXTINF:-1 group-title="┃UK┃ BEIN SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/UK BEIN SPORTS/BEIN SPORTS 2.png", ┃UK┃ BEIN SPORTS 2 UHD EN HEVC (MATCH TIME)
+http://iptvlive-beta.vercel.app/uk-bein-sports-2-uhd-en-hevc-match-time/index.m3u8
+#EXTINF:-1 group-title="┃NL┃ ZIGGO KABEL" tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/24KITCHENHD.png", ┃NL┃ 24KITCHEN 8K+ UHD
+http://iptvlive-beta.vercel.app/nl-24kitchen-8k-uhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="SM All TV",beIN sports Xtra HD
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="SM All TV",beIN sports Xtra
