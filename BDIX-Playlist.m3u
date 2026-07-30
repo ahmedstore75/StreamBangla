@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-30 10:42:51 (BD Time)
-# 📺 Channels Count: 4339
+# 🕒 Last Updated: 2026-07-30 14:01:22 (BD Time)
+# 📺 Channels Count: 4352
 #=================================
 
 #EXTINF:-1 tvg-id="Z Bangla sonar Low" tvg-name="Z Bangla sonar Low" tvg-logo="https://otapp.store/uploads/tv_image/sm/zee-bangla-cinema.png" group-title="Bangla",Zee Bangla Sonar
@@ -5336,6 +5336,30 @@ http://iptvlive-beta.vercel.app/channel-2650/index.m3u8
 http://iptvlive-beta.vercel.app/channel-2651/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", 🇦🇺 🇹🇷
 http://iptvlive-beta.vercel.app/channel-2652/index.m3u8
+#EXTINF:-1 tvg-name="СТВ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg/640px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B1%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%C2%AB%D0%A1%D0%A2%D0%92%C2%BB.svg.png" group-title="Belarus",СТВ
+http://iptvlive-beta.vercel.app/channel-2653/index.m3u8
+#EXTINF:-1 tvg-name="Телевизија Здравкин" tvg-logo="https://i.imgur.com/kSmcAER.png" group-title="North Macedonia",Телевизија Здравкин
+http://iptvlive-beta.vercel.app/channel-2654/index.m3u8
+#EXTINF:-1 tvg-name="Вистел" tvg-logo="https://i.imgur.com/MbM0E6L.png" group-title="North Macedonia",Вистел
+http://iptvlive-beta.vercel.app/channel-2655/index.m3u8
+#EXTINF:-1 tvg-name="Первый канал" tvg-logo="https://i.imgur.com/1IqCGe9.png" group-title="Russia",Первый канал
+http://iptvlive-beta.vercel.app/channel-2656/index.m3u8
+#EXTINF:-1 tvg-name="Россия-Культура Ⓢ" tvg-logo="https://i.imgur.com/S12gaLc.png" group-title="Russia",Россия-Культура Ⓢ
+http://iptvlive-beta.vercel.app/channel-2657/index.m3u8
+#EXTINF:-1 tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" group-title="Russia",Мир
+http://iptvlive-beta.vercel.app/channel-2658/index.m3u8
+#EXTINF:-1 tvg-name="РБК" tvg-logo="https://i.imgur.com/P2Qii5B.png" group-title="Russia",РБК
+http://iptvlive-beta.vercel.app/channel-2659/index.m3u8
+#EXTINF:-1 tvg-name="Мир Белогорья" tvg-logo="https://i.imgur.com/CCNAg7R.png" group-title="Russia",Мир Белогорья
+http://iptvlive-beta.vercel.app/channel-2660/index.m3u8
+#EXTINF:-1 tvg-name="Север" tvg-logo="https://i.imgur.com/sTOQLYl.png" group-title="Russia",Север
+http://iptvlive-beta.vercel.app/channel-2661/index.m3u8
+#EXTINF:-1 tvg-name="Смотрим: Честный Детектив" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/444/241/8.png" group-title="Russia",Смотрим: Честный Детектив
+http://iptvlive-beta.vercel.app/channel-2662/index.m3u8
+#EXTINF:-1 tvg-name="Суспільне Київ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Suspilne_Kyiv_%282022%29.svg/640px-Suspilne_Kyiv_%282022%29.svg.png" group-title="Ukraine",Суспільне Київ
+http://iptvlive-beta.vercel.app/channel-2663/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FIFA World Cup 2026" tvg-logo="https://shorturl.at/NPoFh", 🇦🇺 🇹🇷
+http://iptvlive-beta.vercel.app/channel-2664/index.m3u8
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
 http://iptvlive-beta.vercel.app/btv/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA",SOMOY TV-[2]
@@ -5519,7 +5543,7 @@ http://iptvlive-beta.vercel.app/tv-sul-de-minas/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/Pinoyextremechannel.png" group-title="Kids",Xtrema Cartoons
 http://iptvlive-beta.vercel.app/xtrema-cartoons/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/%D0%A1%D0%BE%D0%BB%D0%BD%D1%86%D0%B5.svg" group-title="Kids",Солнце
-http://iptvlive-beta.vercel.app/channel-2744/index.m3u8
+http://iptvlive-beta.vercel.app/channel-2756/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Documentary",Love nature
 http://iptvlive-beta.vercel.app/love-nature/index.m3u8
 #EXTINF:-1 tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Documentary",Discovery Hindi
@@ -8194,6 +8218,10 @@ http://iptvlive-beta.vercel.app/moto-patlu/index.m3u8
 http://iptvlive-beta.vercel.app/0-tom-and-jerry-2/index.m3u8
 #EXTINF:-1 tvg-id="MotuPatlu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/WowKidz_Logo.png" group-title="Cartoon",0. WowKidz (Motu Patlu)
 http://iptvlive-beta.vercel.app/0-wowkidz-motu-patlu/index.m3u8
+#EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="Fancode",Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]
+http://iptvlive-beta.vercel.app/malaysia-xi-vs-sea-hawks-cricket-club-live/index.m3u8
+#EXTINF:-1 tvg-name="Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg" group-title="Fancode",Day 3 [LIVE]
+http://iptvlive-beta.vercel.app/day-3-live/index.m3u8
 #EXTINF:-1 tvg-id="240000" tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1778082545894.png" group-title="SM All TV",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
 #EXTINF:-1 tvg-id="93000" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="SM All TV",ATN News
@@ -8536,8 +8564,6 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 https://fifa.assadikb.workers.dev/?id=zee_tv_hd
 #EXTINF:-1 tvg-name="Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Malaysia-and-Sea-Hawks-Cricket-Club-old-match-card.jpg" group-title="Fancode",Malaysia Xi Vs Sea Hawks Cricket Club [LIVE]
 https://bd-mc-pdlive.fancode.com/mumbai/4247200_english_hls_defd7e75088821_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-name="Day 3 [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg" group-title="Fancode",Day 3 [LIVE]
-https://bd-mc-pdlive.fancode.com/mumbai/143518_english_hls_c0eca7f5c08928_1ta-di_h264/index.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="Toffee" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png",WC Match Recap
