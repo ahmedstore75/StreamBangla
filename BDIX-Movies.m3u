@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-31 14:26:11 (BD Time)
-# 🍿 Movies Count: 103
+# 🕒 Last Updated: 2026-07-31 17:50:45 (BD Time)
+# 🍿 Movies Count: 102
 #=================================
 
 #EXTINF:-1 tvg-name="OAN" tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d" group-title="News",OAN
@@ -210,7 +210,5 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png" group-title="SM All TV",NEWS | Aaj Tak HD
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="tapmad-15474" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853990141020x576.jpg" group-title="Tapmad", Sri Lanka Women vs Pakistan Women | Pakistan Women Tour of Sri Lanka 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15478" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854072441020x576.jpg" group-title="Tapmad", Pakistan Panthers vs Asian Stars | Asian Legends League 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
