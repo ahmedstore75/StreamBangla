@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-07-31 21:51:25 (BD Time)
-# 🍿 Movies Count: 103
+# 🕒 Last Updated: 2026-07-31 23:14:44 (BD Time)
+# 🍿 Movies Count: 102
 #=================================
 
 #EXTINF:-1 tvg-name="OAN" tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d" group-title="News",OAN
@@ -210,7 +210,5 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Aaj_Tak_HD_v2.png" group-title="SM All TV",NEWS | Aaj Tak HD
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="tapmad-15479" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854073131020x576.jpg" group-title="Tapmad", Indian Royals vs Bangladesh Tigers | Asian Legends League 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-15230" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17854028641020x576women.jpg" group-title="Tapmad", Manchester Super Giants vs Trent Rockets - Women | The Hundred Women's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
