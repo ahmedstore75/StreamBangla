@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-08-02 18:48:51 (BD Time)
-# 🍿 Movies Count: 103
+# 🕒 Last Updated: 2026-08-02 20:52:47 (BD Time)
+# 🍿 Movies Count: 104
 #=================================
 
 #EXTINF:-1 tvg-name="OAN" tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d" group-title="News",OAN
@@ -212,5 +212,7 @@ https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="tapmad-15482" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855016111020x576.jpg" group-title="Tapmad", Indian Royals vs Pakistan Panthers | Asian Legends League 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15233" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17855950071020x576women.jpg" group-title="Tapmad", Trent Rockets vs Sunrisers Leeds - Women | The Hundred Women's Competition 2026
+#EXTINF:-1 tvg-id="tapmad-15199" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17856017491020x576men.jpg" group-title="Tapmad", Trent Rockets vs Sunrisers Leeds | The Hundred Men's Competition 2026
 https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853997271020x576.jpg" group-title="Tapmad", West indies vs Pakistan | Pakistan Tour of West Indies 2026
+https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
