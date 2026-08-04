@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-08-05 02:59:09 (BD Time)
-# 🍿 Movies Count: 103
+# 🕒 Last Updated: 2026-08-05 04:50:08 (BD Time)
+# 🍿 Movies Count: 102
 #=================================
 
 #EXTINF:-1 tvg-name="OAN" tvg-logo="https://s3.aynaott.com/storage/73820738ff3902737f987eb34612b26d" group-title="News",OAN
@@ -212,5 +212,3 @@ https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="tapmad-15336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17853997271020x576.jpg" group-title="Tapmad", West indies vs Pakistan | Pakistan Tour of West Indies 2026
 https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-15202" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17857407801020x576men.jpg" group-title="Tapmad", Sunrisers leeds vs London Spirit | The Hundred Men's Competition 2026
-https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
