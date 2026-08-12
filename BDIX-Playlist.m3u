@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-08-13 02:28:31 (BD Time)
-# 📺 Channels Count: 2479
+# 🕒 Last Updated: 2026-08-13 04:26:53 (BD Time)
+# 📺 Channels Count: 2478
 #=================================
 
 #EXTINF:-1 tvg-name="Live Cricket" tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg",Live Cricket
@@ -205,7 +205,7 @@ http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png",Colors Bangla HD
 http://103.151.61.12/COLORS_BANHLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png",Sony Aath
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+http://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/y88mJsQC/20240823_020415.png",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/P5GdL9Q7/RPlus-Gold-logo-(2013).webp",R Plus Gold
@@ -477,8 +477,7 @@ https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-id="sony_aath" tvg-name="Sony AATH" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_6b500d2d4c6979f37f2854565a68bcf0_playmist_sony_aath_logowine.jpg",Sony AATH
 http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=sony_aath&format=.m3u8
 #EXTINF:-1 tvg-id="jalsha_movies_hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
-http://monirul.bro.bd/sm/stream.php?id=jalsha_movies_hd&e=.m3u8
-http://103.191.99.248:5550/303/index.m3u8
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Dw News" tvg-logo="https://cloudtv.akamaized.net/AynaOTT/BDcontent/channels/images/85bbed0f-b7cd-41a1-9f14-466951111e09.png",Dw News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="Travel XP" tvg-logo="https://i.ibb.co.com/1LBTMkq/images.png",Travel XP
