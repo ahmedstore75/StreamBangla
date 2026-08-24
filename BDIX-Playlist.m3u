@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-08-24 18:19:23 (BD Time)
-# 📺 Channels Count: 2500
+# 🕒 Last Updated: 2026-08-24 20:29:14 (BD Time)
+# 📺 Channels Count: 2499
 #=================================
 
 #EXTINF:-1 tvg-name="Live Cricket" tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg",Live Cricket
@@ -21,14 +21,12 @@ https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 https://iptv-proxy.ahmed-bd-org.workers.dev/ntv/index.m3u8
 #EXTINF:-1 tvg-id="299" tvg-name="Channel 1" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="News",Channel 1
 https://akash.sm-monirul.top/channel_1.m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="Entertainment",Maasranga TV
 https://mtv.sunplex.live/MAASRANGA/index.m3u8
 #EXTINF:-1 tvg-id="102" tvg-name="Ekattor HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png" group-title="News",Ekattor HD
 https://iptv-proxy.ahmed-bd-org.workers.dev/ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="News",Channel 24 HD
 https://stream.ottplus.live/live/channel_24_abr/index.m3u8
-https://iptv-proxy.ahmed-bd-org.workers.dev/channel-24/index.m3u8
 #EXTINF:-1 tvg-id="93" tvg-name="ATN News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png" group-title="News",ATN News
 https://iptv-proxy.ahmed-bd-org.workers.dev/atn-news/index.m3u8
 #EXTINF:-1 tvg-id="186" tvg-name="News 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png" group-title="News",News 24 HD
@@ -4898,6 +4896,8 @@ https://iptv-proxy.ahmed-bd-org.workers.dev/global-tv/index.m3u8
 https://iptv-proxy.ahmed-bd-org.workers.dev/bangla-tv/index.m3u8
 #EXTINF:-1 tvg-id="somoy-tv" tvg-name="SOMOY TV" tvg-logo="http://198.195.239.50/img/channels/SOMOY%20TV.png", SOMOY TV
 https://iptv-proxy.ahmed-bd-org.workers.dev/somoy-tv/index.m3u8
+#EXTINF:-1 tvg-id="channel-24" tvg-name="CHANNEL 24" tvg-logo="http://198.195.239.50/img/channels/CHANNEL%2024.png", CHANNEL 24
+https://iptv-proxy.ahmed-bd-org.workers.dev/channel-24/index.m3u8
 #EXTINF:-1 tvg-id="news-24" tvg-name="NEWS 24" tvg-logo="http://198.195.239.50/img/channels/NEWS24%20HD.png", NEWS 24
 https://iptv-proxy.ahmed-bd-org.workers.dev/news-24/index.m3u8
 #EXTINF:-1 tvg-id="ekhon-tv" tvg-name="EKHON TV" tvg-logo="https://assets-prod.services.toffeelive.com/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png", EKHON TV
