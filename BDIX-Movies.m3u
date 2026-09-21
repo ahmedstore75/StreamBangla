@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-09-21 20:34:53 (BD Time)
-# 🍿 Movies Count: 27
+# 🕒 Last Updated: 2026-09-22 00:59:34 (BD Time)
+# 🍿 Movies Count: 33
 #=================================
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png",Enter 10 Bangla
@@ -62,3 +62,15 @@ https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live/index.m3u8
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL", FOX News (AU) 🛜
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png" group-title="SM All TV",Bein Sports xtra
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/nick-bangla.png" group-title="SM All TV",Nick Bangla
+http://live.balajibroadband.com:3500/render.m3u8?auth=eWy2N9-BCdNT71DCT59ZmrtOoEb5Srm6UgPMqcloKfid4KZNKXqHsKAriRq-n50zsyHQQQSzvTAg6vOA6dIS6-mAdHCiZZnLHwgKGp_qzYj5pG-7UNcrzHjGP_khhOqfQZRweJV0RRDv63_m9xug3Kwbi7QVFXeczkuW69C3YUaK4ELwqeiVIV_7bFgVWqAJYj66IIBHlbKZ1SraW-glNwGPGtg4zi8QP33FjfsDMCAA-5uevxlJ92tS2EyKPqVz-p9GeCEX7o_MrNAIzD3jvo8t-5f1TSE9uU4OsjnpeNcC_6uJ4u0AaogLzBkKh3MSHdub1vOtwjiV7u-Y1SPavhLoFInqf0PN424QpJSjatC5Jqz_WIsmQ0Cy68UdnYW2tlLV44ZPMDlPbhU2KwrP0SZnGnJ84sggCMQu6wldJxqycPAc7GBIDH7FfnmTJFsT_5WaNUaAxKTQbKwZzifePRtQsE3Lj9Kn2Q-ldsO38arY3RFOKI-iD1OzpvMsh4x4WetU6WKA9m5IOH7QGKMT26CeqgeRQb1SIxnoaLPR8bSASkN1NKDBdWV8pdDaaVy_sixKTfbFGflXrLx_4g==&channel_key_id=1341&hdnea=st=1787424616~exp=1787511016~acl=/bpk-tv/Nick_Ben_MOB/Fallback/*~hmac=adc3d1c740a035ec9f2255e3abc7d0c5a83650de5118592d87e1b0777b6cb6b8
+#EXTINF:-1 tvg-id="DangalTV.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png" group-title="SM All TV",ENT | Dangal TV
+https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
+#EXTINF:-0 group-title="SM All TV" tvg-logo="https://akm-img-a-in.tosshub.com/sites/visualstory/stories/2023_04/story_31381/assets/2.png?time=1681544765&size=*:900",GNT
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="SM All TV",beIN sports Xtra HD
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1  tvg-logo="" group-title="Cartoon",MINI
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
