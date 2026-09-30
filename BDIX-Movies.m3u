@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-09-30 06:48:27 (BD Time)
-# 🍿 Movies Count: 38
+# 🕒 Last Updated: 2026-09-30 13:33:11 (BD Time)
+# 🍿 Movies Count: 42
 #=================================
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png",Enter 10 Bangla
@@ -84,3 +84,11 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Cartoon",MINI
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+#EXTINF:-1 tvg-name="POGO" tvg-logo="https://assets-prod.services.toffeelive.com/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp" group-title="Toffee",POGO
+https://prod-linear-media.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8?edge-cache-token=Expires=1790733658~Starts=1790730058~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=ytR9B_1vpQ-i6fvBB1vkIOawsX4k1YQg5I7UeTkeTKBlvvXQdREkEzT-uYg2W7Pcysgw8Kc3SDzlFsFYEwBBBA
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-logo="https://assets-prod.services.toffeelive.com/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp" group-title="Toffee",Discovery Kids
+https://prod-linear-media.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8?edge-cache-token=Expires=1790733658~Starts=1790730058~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=ytR9B_1vpQ-i6fvBB1vkIOawsX4k1YQg5I7UeTkeTKBlvvXQdREkEzT-uYg2W7Pcysgw8Kc3SDzlFsFYEwBBBA
+#EXTINF:-1 tvg-name="Sony YAY" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp" group-title="Toffee",Sony YAY
+https://prod-linear-media.toffeelive.com/cdn/live/sonyyay/playlist.m3u8?edge-cache-token=Expires=1790733658~Starts=1790730058~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=ytR9B_1vpQ-i6fvBB1vkIOawsX4k1YQg5I7UeTkeTKBlvvXQdREkEzT-uYg2W7Pcysgw8Kc3SDzlFsFYEwBBBA
+#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Toffee",Zee Bangla
+https://prod-linear-media.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8?edge-cache-token=Expires=1790733658~Starts=1790730058~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=ytR9B_1vpQ-i6fvBB1vkIOawsX4k1YQg5I7UeTkeTKBlvvXQdREkEzT-uYg2W7Pcysgw8Kc3SDzlFsFYEwBBBA
