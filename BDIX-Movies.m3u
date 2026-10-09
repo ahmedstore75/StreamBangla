@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-10-09 23:35:01 (BD Time)
-# 🍿 Movies Count: 41
+# 🕒 Last Updated: 2026-10-10 03:54:16 (BD Time)
+# 🍿 Movies Count: 48
 #=================================
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png",Enter 10 Bangla
@@ -90,3 +90,17 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Cartoon",MINI
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Toffee",Bijoy TV
+https://prod-linear-media.toffeelive.com/cdn/live/bijoytv/playlist.m3u8?edge-cache-token=Expires=1791565307~Starts=1791561707~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=4kXc5pscHeK5A5pBLMT-UH8WFKdz6tsWndR9dXDHd7T-k1OmHww2PmHT_prTFdaKsTH40VlzL0b1-IvV0Qr3BA
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://assets-prod.services.toffeelive.com/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="Toffee",NTV
+https://prod-linear-media.toffeelive.com/cdn/live/n_tv/playlist.m3u8?edge-cache-token=Expires=1791565307~Starts=1791561707~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=4kXc5pscHeK5A5pBLMT-UH8WFKdz6tsWndR9dXDHd7T-k1OmHww2PmHT_prTFdaKsTH40VlzL0b1-IvV0Qr3BA
+#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://assets-prod.services.toffeelive.com/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Toffee",Global TV
+https://prod-linear-media.toffeelive.com/cdn/live/globaltv/playlist.m3u8?edge-cache-token=Expires=1791565307~Starts=1791561707~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=4kXc5pscHeK5A5pBLMT-UH8WFKdz6tsWndR9dXDHd7T-k1OmHww2PmHT_prTFdaKsTH40VlzL0b1-IvV0Qr3BA
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://assets-prod.services.toffeelive.com/7oPt_p8BJIOHmUelhXWj/posters/d6328092-9437-4806-8dc7-d00732d56832.png" group-title="Toffee",DW
+https://prod-linear-media.toffeelive.com/cdn/live/dw_tv/playlist.m3u8?edge-cache-token=Expires=1791565311~Starts=1791561711~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=F7zmq7hmcJoL0iFH6cVvWq2ahWyW0_v0PCg90H42vUOOVomfV36r4KFnVebMXGpFhXcfn2PsAIGno497acV-Cg
+#EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://assets-prod.services.toffeelive.com/CNT2_p8BalKyvLQIBSUG/posters/1e937055-a014-4274-bb69-b1b56d18c434.png" group-title="Toffee",Russia Today
+https://prod-linear-media.toffeelive.com/cdn/live/russia_today/playlist.m3u8?edge-cache-token=Expires=1791565311~Starts=1791561711~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=F7zmq7hmcJoL0iFH6cVvWq2ahWyW0_v0PCg90H42vUOOVomfV36r4KFnVebMXGpFhXcfn2PsAIGno497acV-Cg
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://assets-prod.services.toffeelive.com/G4ML_58BJIOHmUelNXZr/posters/becc2fba-4ed5-4f43-af2d-3c1ea2b4ee57.png" group-title="Toffee",France 24
+https://prod-linear-media.toffeelive.com/cdn/live/france_24/playlist.m3u8?edge-cache-token=Expires=1791565311~Starts=1791561711~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=F7zmq7hmcJoL0iFH6cVvWq2ahWyW0_v0PCg90H42vUOOVomfV36r4KFnVebMXGpFhXcfn2PsAIGno497acV-Cg
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://assets-prod.services.toffeelive.com/DYMI_58BJIOHmUelm3aK/posters/d8436322-804a-47b6-9a3f-62764c4622d5.png" group-title="Toffee",CGTN
+https://prod-linear-media.toffeelive.com/cdn/live/cgtn/playlist.m3u8?edge-cache-token=Expires=1791565311~Starts=1791561711~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=F7zmq7hmcJoL0iFH6cVvWq2ahWyW0_v0PCg90H42vUOOVomfV36r4KFnVebMXGpFhXcfn2PsAIGno497acV-Cg
