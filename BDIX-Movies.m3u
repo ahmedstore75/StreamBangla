@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-10-17 04:15:00 (BD Time)
-# 🍿 Movies Count: 41
+# 🕒 Last Updated: 2026-10-17 07:42:43 (BD Time)
+# 🍿 Movies Count: 42
 #=================================
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png",Enter 10 Bangla
@@ -90,3 +90,5 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1  tvg-logo="" group-title="Cartoon",MINI
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+#EXTINF:-1 tvg-name="AWSN TV" tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg" group-title="Toffee",AWSN TV
+https://prod-linear-media.toffeelive.com/cdn/live/awsn/playlist.m3u8?edge-cache-token=Expires=1792191645~Starts=1792188045~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=TZxBRck_RMj97Odn4aMR6aqm1geIzrk4kIstTHjccVoEWL6kq0Cwt9az2eFd6QDeN5U5qDvgsp9E-33sot_VCA
