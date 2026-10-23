@@ -4,8 +4,8 @@
 # 📻 Live Radio Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-10-23 08:06:30 (BD Time)
-# 📻 Radio Count: 34
+# 🕒 Last Updated: 2026-10-23 14:52:28 (BD Time)
+# 📻 Radio Count: 39
 #=================================
 
 #EXTINF:-1 tvg-name="Saudia Radio" tvg-logo="https://s3.aynaott.com/storage/76d7d7446ee57ec14ff67c1678725d19" group-title="Latest",Saudia Radio
@@ -76,3 +76,13 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
 #EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="SM All TV",Spice FM
 https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://assets-prod.services.toffeelive.com/rYOv_p8BJIOHmUelrnXh/posters/d537453f-7e5b-45f3-9b52-42f6f65950c8.png" group-title="Toffee",Channel News Asia
+https://prod-linear-media.toffeelive.com/cdn/live/channels_news_asia/playlist.m3u8?edge-cache-token=Expires=1792728063~Starts=1792724463~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=zxZze16S2t-fMt8oI2FqlKqskal7IaTM4xVwHy6WTz-oHNaDLdB6sKTXBVqxR6RYPRfA4MyDZsdJb-hfeC_9Bw
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://assets-prod.services.toffeelive.com/1YPq_p8BJIOHmUelSHXc/posters/f65b0273-0f23-4b56-93dd-417224369105.png" group-title="Toffee",TRT World
+https://prod-linear-media.toffeelive.com/cdn/live/trt_world/playlist.m3u8?edge-cache-token=Expires=1792728063~Starts=1792724463~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=zxZze16S2t-fMt8oI2FqlKqskal7IaTM4xVwHy6WTz-oHNaDLdB6sKTXBVqxR6RYPRfA4MyDZsdJb-hfeC_9Bw
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://assets-prod.services.toffeelive.com/7oPt_p8BJIOHmUelhXWj/posters/d6328092-9437-4806-8dc7-d00732d56832.png" group-title="Toffee",DW
+https://prod-linear-media.toffeelive.com/cdn/live/dw_tv/playlist.m3u8?edge-cache-token=Expires=1792728063~Starts=1792724463~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=zxZze16S2t-fMt8oI2FqlKqskal7IaTM4xVwHy6WTz-oHNaDLdB6sKTXBVqxR6RYPRfA4MyDZsdJb-hfeC_9Bw
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://assets-prod.services.toffeelive.com/S9bzFaEBalKyvLQIrh3b/posters/f400a8bc-d83c-40f8-93e8-206314ad332d.png" group-title="Toffee",Al Jazeera
+https://prod-linear-media.toffeelive.com/cdn/live/al_jazeera/playlist.m3u8?edge-cache-token=Expires=1792728063~Starts=1792724463~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=zxZze16S2t-fMt8oI2FqlKqskal7IaTM4xVwHy6WTz-oHNaDLdB6sKTXBVqxR6RYPRfA4MyDZsdJb-hfeC_9Bw
+#EXTINF:-1 tvg-name="Russia Today" tvg-logo="https://assets-prod.services.toffeelive.com/CNT2_p8BalKyvLQIBSUG/posters/1e937055-a014-4274-bb69-b1b56d18c434.png" group-title="Toffee",Russia Today
+https://prod-linear-media.toffeelive.com/cdn/live/russia_today/playlist.m3u8?edge-cache-token=Expires=1792728063~Starts=1792724463~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=zxZze16S2t-fMt8oI2FqlKqskal7IaTM4xVwHy6WTz-oHNaDLdB6sKTXBVqxR6RYPRfA4MyDZsdJb-hfeC_9Bw
