@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-10-25 07:52:24 (BD Time)
-# 🍿 Movies Count: 33
+# 🕒 Last Updated: 2026-10-25 13:01:18 (BD Time)
+# 🍿 Movies Count: 32
 #=================================
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png",Enter 10 Bangla
@@ -56,8 +56,6 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CGtv" tvg-logo="https://i.imgur.com/6rsLtY7.png" group-title="VOD Italy",CGtv
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tapmad-19084" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921420211020x576.jpg" group-title="Racing", Round 17 - Race 2 - Zheijang, China - Race - Kumho FIA TCR World Tour Euro Series 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTxpr24R/1000114119.jpg" group-title="SM All TV",G-Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/yNQfGnnb/RLr-MBlm.png" group-title="SM All TV",Bein Sports xtra

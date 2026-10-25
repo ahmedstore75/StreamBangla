@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-10-25 07:52:24 (BD Time)
-# 📺 Channels Count: 935
+# 🕒 Last Updated: 2026-10-25 13:01:18 (BD Time)
+# 📺 Channels Count: 934
 #=================================
 
 #EXTINF:-1 group-title="Sports" tvg-name="Live Cricket" tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg",Live Cricket
@@ -1192,8 +1192,6 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="tapmad-19126" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925868731020x576.jpg" group-title="Horse Riding", FEI NAL - MD Upper Marlboro, USA - Race - Longines FEI Jumping World Cup 2026
-https://d1xisgujqundny.cloudfront.net/live/multiregion-1/master.m3u8
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV
 https://iptv-proxy.ahmed-bd-org.workers.dev/btv/index.m3u8
 #EXTINF:-1 tvg-id="btv-world" tvg-name="BTV WORLD" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV WORLD
