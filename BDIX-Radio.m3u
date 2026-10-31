@@ -4,8 +4,8 @@
 # 📻 Live Radio Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-10-31 07:07:14 (BD Time)
-# 📻 Radio Count: 40
+# 🕒 Last Updated: 2026-10-31 13:35:53 (BD Time)
+# 📻 Radio Count: 34
 #=================================
 
 #EXTINF:-1 tvg-name="Saudia Radio" tvg-logo="https://s3.aynaott.com/storage/76d7d7446ee57ec14ff67c1678725d19" group-title="Latest",Saudia Radio
@@ -76,15 +76,3 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3563475_SC
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/cellular_main_sd_abr_v2/cfs/bbc_world_service.mpd
 #EXTINF:-1 tvg-logo="https://spicefmbd.com/logospice.png" group-title="SM All TV",Spice FM
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-name="Somoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Toffee",Somoy TV
-https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1793397647~Starts=1793394047~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=B3dVMiZ2Ss3geFIcje6QkqUovy5c4gs-iwUiic12qSQAeAYnSIWU72iHiyD-FmQuGzYBBlz3qJZE7uJGh9tzDw
-#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://assets-prod.services.toffeelive.com/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="Toffee",Jamuna TV
-https://prod-linear-media.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?edge-cache-token=Expires=1793397647~Starts=1793394047~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=B3dVMiZ2Ss3geFIcje6QkqUovy5c4gs-iwUiic12qSQAeAYnSIWU72iHiyD-FmQuGzYBBlz3qJZE7uJGh9tzDw
-#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://assets-prod.services.toffeelive.com/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="Toffee",Ananda TV
-https://prod-linear-media.toffeelive.com/cdn/live/anandatv/playlist.m3u8?edge-cache-token=Expires=1793397647~Starts=1793394047~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=B3dVMiZ2Ss3geFIcje6QkqUovy5c4gs-iwUiic12qSQAeAYnSIWU72iHiyD-FmQuGzYBBlz3qJZE7uJGh9tzDw
-#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://assets-prod.services.toffeelive.com/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Toffee",Bijoy TV
-https://prod-linear-media.toffeelive.com/cdn/live/bijoytv/playlist.m3u8?edge-cache-token=Expires=1793397647~Starts=1793394047~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=B3dVMiZ2Ss3geFIcje6QkqUovy5c4gs-iwUiic12qSQAeAYnSIWU72iHiyD-FmQuGzYBBlz3qJZE7uJGh9tzDw
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://assets-prod.services.toffeelive.com/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="Toffee",NTV
-https://prod-linear-media.toffeelive.com/cdn/live/n_tv/playlist.m3u8?edge-cache-token=Expires=1793397647~Starts=1793394047~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=B3dVMiZ2Ss3geFIcje6QkqUovy5c4gs-iwUiic12qSQAeAYnSIWU72iHiyD-FmQuGzYBBlz3qJZE7uJGh9tzDw
-#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://assets-prod.services.toffeelive.com/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png" group-title="Toffee",Global TV
-https://prod-linear-media.toffeelive.com/cdn/live/globaltv/playlist.m3u8?edge-cache-token=Expires=1793397647~Starts=1793394047~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=B3dVMiZ2Ss3geFIcje6QkqUovy5c4gs-iwUiic12qSQAeAYnSIWU72iHiyD-FmQuGzYBBlz3qJZE7uJGh9tzDw
