@@ -4,7 +4,7 @@
 # 📻 Live Radio Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-07 16:43:50 (BD Time)
+# 🕒 Last Updated: 2026-11-07 23:01:25 (BD Time)
 # 📻 Radio Count: 32
 #=================================
 
@@ -70,5 +70,5 @@ https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda0
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="019de785-3bd9-7f0c-9cba-351b78930e42" tvg-name="RDS Social TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rdssocialtv.png" group-title="English",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
-#EXTINF:-1 tvg-id="custom.groove" tvg-name="GROOVE" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/groove.png" tvg-chno="441" channel-id="custom.groove" tvg-country="US" tvg-language="eng" group-title="Bnagla",GROOVE
+#EXTINF:-1 tvg-id="custom.groove" tvg-name="GROOVE" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/groove.png" tvg-chno="443" channel-id="custom.groove" tvg-country="US" tvg-language="eng" group-title="Bnagla",GROOVE
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
