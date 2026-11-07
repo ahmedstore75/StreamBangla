@@ -3,7 +3,7 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-07 23:01:25 (BD Time)
+# 🕒 Last Updated: 2026-11-08 03:07:15 (BD Time)
 # 📺 Channels Count: 1757
 #=================================
 
@@ -1198,10 +1198,10 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="tapmad-19309" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938651221020x576.jpg" group-title="Football", Kaya FC-Iliolo (PHI) vs PFC Nasaf (UZB) - MATCHDAY 3 - AFC Women's Champions League 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19304" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938648121020x576.jpg" group-title="Football", East Bengal FC (IND) vs 4.25 Sports Club (PRK) - MATCHDAY 3 - AFC Women's Champions League 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20117" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939712561020x576.jpg" group-title="Football", Peterborough United vs Reading - 1st Round - FA Cup 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19961" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937918821020x576.jpg" group-title="Football", PSG vs Troyes - MATCHDAY 10 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV
 https://iptv-proxy.ahmed-bd-org.workers.dev/btv/index.m3u8
 #EXTINF:-1 tvg-id="btv-world" tvg-name="BTV WORLD" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV WORLD
