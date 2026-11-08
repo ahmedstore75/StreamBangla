@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-08 22:23:55 (BD Time)
-# 📺 Channels Count: 1706
+# 🕒 Last Updated: 2026-11-09 03:23:30 (BD Time)
+# 📺 Channels Count: 1703
 #=================================
 
 #EXTINF:-1 group-title="Sports" tvg-name="Live Cricket" tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg",Live Cricket
@@ -1198,13 +1198,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="tapmad-19990" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937907061020x576.jpg" group-title="Horse Riding", Leg 3 - Verona (ITA) - Race - Longines FEI Jumping World Cup 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19962" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937920251020x576.jpg" group-title="Football", Rennes vs LOSC - MATCHDAY 10 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20119" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939715131020x576.jpg" group-title="Football", Cray Wanderers vs Stockport County - 1st Round - FA Cup 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19463" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939689621020x576.jpg" group-title="Football", Real Sociedad vs Rayo Vallecano - MATCHDAY 12 - LaLiga 2026/27
+#EXTINF:-1 tvg-id="tapmad-19466" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939692981020x576.jpg" group-title="Football", Atletico Madrid vs Barcelona - MATCHDAY 12 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV
 https://iptv-proxy.ahmed-bd-org.workers.dev/btv/index.m3u8
