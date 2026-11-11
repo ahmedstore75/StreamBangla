@@ -4,8 +4,8 @@
 # 📻 Live Radio Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-11 14:29:23 (BD Time)
-# 📻 Radio Count: 31
+# 🕒 Last Updated: 2026-11-11 23:29:44 (BD Time)
+# 📻 Radio Count: 32
 #=================================
 
 #EXTINF:-1 tvg-name="Saudia Radio" tvg-logo="https://s3.aynaott.com/storage/76d7d7446ee57ec14ff67c1678725d19" group-title="Latest",Saudia Radio
@@ -70,3 +70,5 @@ https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda0
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="019de785-3bd9-7f0c-9cba-351b78930e42" tvg-name="RDS Social TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rdssocialtv.png" group-title="English",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 tvg-id="peoples.radio.bd" tvg-name="Peoples Radio" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nvisionbd-official-peoples-radio.jpg" tvg-chno="57" channel-id="peoples.radio.bd" tvg-country="BD" tvg-language="ben" group-title="Bnagla",Peoples Radio
+http://s3.myradiostream.com:14498/;stream.mp3
