@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-13 17:38:47 (BD Time)
-# 📺 Channels Count: 1892
+# 🕒 Last Updated: 2026-11-14 00:49:31 (BD Time)
+# 📺 Channels Count: 1901
 #=================================
 
 #EXTINF:-1 group-title="Sports" tvg-name="Live Cricket" tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg",Live Cricket
@@ -1198,6 +1198,8 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="tapmad-20063" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942900291020x576.jpg" group-title="Football", Moldova vs Kazakhstan - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV
 https://iptv-proxy.ahmed-bd-org.workers.dev/btv/index.m3u8
 #EXTINF:-1 tvg-id="btv-world" tvg-name="BTV WORLD" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV WORLD
@@ -1722,7 +1724,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://live.playmax.live/matribhumi/index.m3u8
 #EXTINF:-1 tvg-id="RupashiBanglaTV.bd@SD" tvg-name="Rupashi Bangla TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rupashi-bangla-tv.png" tvg-chno="51" channel-id="RupashiBanglaTV.bd@SD" tvg-country="BD" tvg-language="ben" group-title="Bnagla",Rupashi Bangla TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="custom.shikortvcanada" tvg-name="Shikor TV Canada" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shikor-tv-canada-ac43f0fa9e.png" tvg-chno="53" channel-id="custom.shikortvcanada" tvg-country="CA" tvg-language="ben" group-title="Bnagla",Shikor TV Canada
+#EXTINF:-1 tvg-id="custom.shikortvcanada" tvg-name="Shikor TV Canada" tvg-chno="53" channel-id="custom.shikortvcanada" tvg-country="CA" tvg-language="ben" group-title="Bnagla",Shikor TV Canada
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/shikortv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="bd.tbn.24.usa.bd" tvg-name="TBN 24 USA" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tbn-24.png" tvg-chno="9" channel-id="bd.tbn.24.usa.bd" tvg-country="BD" tvg-language="ben" group-title="News",TBN 24 USA
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
@@ -1770,7 +1772,7 @@ https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8
 https://livetv.shamon-cable.net:8443/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-id="TaraTV.in" tvg-name="Tara TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tara-tv.png" tvg-chno="79" channel-id="TaraTV.in" tvg-country="IN" tvg-language="ben" group-title="Indian Bangla",Tara TV
 https://legitpro.co.in/taratv/taratv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="custom.tentvprime" tvg-name="Ten TV Prime" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ten-tv-prime-ac43f0fa9e.png" tvg-chno="59" channel-id="custom.tentvprime" tvg-country="BD" tvg-language="ben" group-title="Sports",Ten TV Prime
+#EXTINF:-1 tvg-id="custom.tentvprime" tvg-name="Ten TV Prime" tvg-chno="59" channel-id="custom.tentvprime" tvg-country="BD" tvg-language="ben" group-title="Sports",Ten TV Prime
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/primetv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="UBangla.in" tvg-name="U Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/u-bangla.png" tvg-chno="80" channel-id="UBangla.in" tvg-country="IN" tvg-language="ben" group-title="Indian Bangla",U Bangla
 https://stream.ottlive.co.in/ubangla/index.m3u8
@@ -2010,7 +2012,7 @@ https://cdn.pishow.tv/ott/live/1059/master.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 #EXTINF:-1 tvg-id="ColorsGujarati.in@SD" tvg-name="Colors Gujarati" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-gujarati-360p-c82f072793.png" tvg-chno="227" channel-id="ColorsGujarati.in@SD" tvg-country="IN" tvg-language="guj" group-title="Indian entertainment",Colors Gujarati
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
-#EXTINF:-1 tvg-id="Colors.in@HD" tvg-name="Colors HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nvisionbd-verified-colors-3cfc323d7c.png" tvg-chno="228" channel-id="Colors.in@HD" tvg-country="IN" tvg-language="und" group-title="Indian entertainment",Colors HD
+#EXTINF:-1 tvg-id="Colors.in@HD" tvg-name="Colors HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-3cfc323d7c.png" tvg-chno="228" channel-id="Colors.in@HD" tvg-country="IN" tvg-language="und" group-title="Indian entertainment",Colors HD
 https://livetv.shamon-cable.net:8443/Colors-HD/index.m3u8
 #EXTINF:-1 tvg-id="ColorsKannada.in@SD" tvg-name="Colors Kannada" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-kannada.png" tvg-chno="229" channel-id="ColorsKannada.in@SD" tvg-country="IN" tvg-language="kan" group-title="Indian entertainment",Colors Kannada
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
@@ -2522,7 +2524,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-id="PeaceTVUrdu.pk" tvg-name="Peace TV Urdu" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/peace-tv-urdu.png" tvg-chno="587" channel-id="PeaceTVUrdu.pk" tvg-country="PK" tvg-language="urd" group-title="Islami",Peace TV Urdu
 https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
-#EXTINF:-1 tvg-id="TVOne.uk" tvg-name="TV One UK" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tv-one-uk-ac43f0fa9e.png" tvg-chno="567" channel-id="TVOne.uk" tvg-country="GB" tvg-language="eng" group-title="Islami",TV One UK
+#EXTINF:-1 tvg-id="TVOne.uk" tvg-name="TV One UK" tvg-chno="567" channel-id="TVOne.uk" tvg-country="GB" tvg-language="eng" group-title="Islami",TV One UK
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/tvoneuksni.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZainabiaChannel.sa" tvg-name="Zainabia Channel" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zainabia-channel.png" tvg-chno="589" channel-id="ZainabiaChannel.sa" tvg-country="SA" tvg-language="ara" group-title="Islami",Zainabia Channel
 https://zainabia.livebox.co.in/ZainabiaChannelhls/channel.m3u8
@@ -2788,6 +2790,20 @@ https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-a
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesNow.in@HD" tvg-name="Movies Now HD (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/movies-now-hd-576p.png" group-title="Bnagla",Movies Now HD (576p)
 http://27.124.71.27/Movies_Now/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-name="Nickelodeon (India) (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nickelodeon-india.png" group-title="Kids",Nickelodeon (India) (576p)
+http://103.185.24.134:3001/NICK/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-name="Nick Jr. (India) (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nick-jr-india.png" group-title="Kids",Nick Jr. (India) (576p)
+http://103.185.24.134:3001/NICK-JR/index.m3u8
+#EXTINF:-1 tvg-id="CVRHealth.in@SD" tvg-name="CVR Health (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cvr-health.png" group-title="Bnagla",CVR Health (576p)
+https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
+#EXTINF:-1 tvg-id="DishaTV.in@SD" tvg-name="Disha TV (396p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/disha-tv.png" group-title="Bnagla",Disha TV (396p)
+https://d1msejlow1t3l4.cloudfront.net/fta/dishatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCTV.in@SD" tvg-name="MBC TV (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mbc-tv.png" group-title="Bnagla",MBC TV (576p)
+https://cdn.pishow.tv/ott/live/1017/master.m3u8
+#EXTINF:-1 tvg-id="TheQIndia.us@SD" tvg-name="The Q India (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/the-q-india.svg" group-title="Bnagla",The Q India (576p)
+http://103.175.73.12:8080/live/25/25_0.m3u8
+#EXTINF:-1 tvg-id="TV100.in@SD" tvg-name="TV 100 (India) (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tv-100-india.png" group-title="Bnagla",TV 100 (India) (576p)
+https://fta.ektv.in/live/310/master.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-name="All Time Movies (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/all-time-movies.png" group-title="Bnagla",All Time Movies (576p)
 https://fta.ektv.in/live/54/54_0.m3u8
 #EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-name="DD Odia (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-odia.png" group-title="Bnagla",DD Odia (576p)
@@ -2806,6 +2822,8 @@ https://fta.ektv.in/live/709/master.m3u8
 https://fta.ektv.in/live/349/master.m3u8
 #EXTINF:-1 tvg-id="VendharTV.in@SD" tvg-name="Vendhar TV (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/vendhar-tv.png" group-title="Bnagla",Vendhar TV (576p)
 https://fta.ektv.in/live/223/master.m3u8
+#EXTINF:-1 tvg-id="Pogo.in@SD" tvg-name="Pogo (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pogo.png" group-title="Kids",Pogo (576p)
+http://103.135.253.32:8080/POGO/index.m3u8
 #EXTINF:-1 tvg-id="AsianTV.bd" tvg-name="Asian TV_3" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asian-tv.png" tvg-chno="3" channel-id="AsianTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Asian TV_3
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla_4" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla.png" tvg-chno="4" channel-id="ATNBangla.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN Bangla_4
