@@ -3,7 +3,7 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-14 00:49:31 (BD Time)
+# 🕒 Last Updated: 2026-11-14 06:30:02 (BD Time)
 # 📺 Channels Count: 1901
 #=================================
 
@@ -1198,8 +1198,6 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="tapmad-20063" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942900291020x576.jpg" group-title="Football", Moldova vs Kazakhstan - MATCHDAY 5 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV
 https://iptv-proxy.ahmed-bd-org.workers.dev/btv/index.m3u8
 #EXTINF:-1 tvg-id="btv-world" tvg-name="BTV WORLD" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV WORLD
@@ -2824,6 +2822,8 @@ https://fta.ektv.in/live/349/master.m3u8
 https://fta.ektv.in/live/223/master.m3u8
 #EXTINF:-1 tvg-id="Pogo.in@SD" tvg-name="Pogo (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pogo.png" group-title="Kids",Pogo (576p)
 http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-id="JaihindTV.in@SD" tvg-name="Jaihind TV (576p)" group-title="Bnagla",Jaihind TV (576p)
+https://fta.ektv.in/live/700/master.m3u8
 #EXTINF:-1 tvg-id="AsianTV.bd" tvg-name="Asian TV_3" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asian-tv.png" tvg-chno="3" channel-id="AsianTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Asian TV_3
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ATNBangla.bd" tvg-name="ATN Bangla_4" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/atn-bangla.png" tvg-chno="4" channel-id="ATNBangla.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",ATN Bangla_4
