@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-14 22:11:02 (BD Time)
-# 📺 Channels Count: 1900
+# 🕒 Last Updated: 2026-11-15 03:42:34 (BD Time)
+# 📺 Channels Count: 1904
 #=================================
 
 #EXTINF:-1 group-title="Sports" tvg-name="Live Cricket" tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg",Live Cricket
@@ -1200,6 +1200,14 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="tapmad-20203" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945729661020x576.jpg" group-title="Mma", Nemkov vs Bilostenniy - Semi Finals - PFL 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20080" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942961621020x576.jpg" group-title="Football", Romania vs Poland - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20079" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942960561020x576.jpg" group-title="Football", Sweden vs Bosnia and Herzegovina - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20077" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942958291020x576.jpg" group-title="Football", Portugal vs Denmark - MATCHDAY 5 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20214" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17943014771020x576.jpg" group-title="Racing", CLASSIC 24 HOUR presented by Mission Foods (GROUP A/B) RACE 1 - Group Stages - HSR Daytona Classic 2026
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV
 https://iptv-proxy.ahmed-bd-org.workers.dev/btv/index.m3u8
 #EXTINF:-1 tvg-id="btv-world" tvg-name="BTV WORLD" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV WORLD
