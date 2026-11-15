@@ -3,7 +3,7 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-15 22:39:36 (BD Time)
+# 🕒 Last Updated: 2026-11-16 04:08:45 (BD Time)
 # 📺 Channels Count: 1913
 #=================================
 
@@ -1198,8 +1198,8 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="tapmad-20191" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945615901020x576.jpg" group-title="Horse Riding", Qualifier Leg - Stuttgart (GER) - Qualifier - Longines FEI Jumping World Cup 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20085" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945551261020x576.jpg" group-title="Football", France vs Turkiye - MATCHDAY 6 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV
 https://iptv-proxy.ahmed-bd-org.workers.dev/btv/index.m3u8
 #EXTINF:-1 tvg-id="btv-world" tvg-name="BTV WORLD" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV WORLD
