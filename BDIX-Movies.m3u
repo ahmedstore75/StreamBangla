@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-18 20:38:25 (BD Time)
-# 🍿 Movies Count: 81
+# 🕒 Last Updated: 2026-11-19 04:43:21 (BD Time)
+# 🍿 Movies Count: 100
 #=================================
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png",Enter 10 Bangla
@@ -54,19 +54,21 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CGtv" tvg-logo="https://i.imgur.com/6rsLtY7.png" group-title="VOD Italy",CGtv
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="019de785-398d-7a57-87df-bc4eea15b0a4" tvg-name="BTV News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-btv-news-0646349a43.png" group-title="News",BTV News
+#EXTINF:-1 tvg-id="019de785-398d-7a57-87df-bc4eea15b0a4" tvg-name="BTV News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/btv-news-33c61f1708.png" group-title="News",BTV News
 https://tvsen6.aynaott.com/tV8mB2zP7rX4kL1w/index.m3u8
 #EXTINF:-1 tvg-id="019efa45-db24-7232-933d-0105a23669d7" tvg-name="Drama 24" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/30554e50000b538aef52a9181052af56.jpg" group-title="News",Drama 24
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
-#EXTINF:-1 tvg-id="019de785-3980-7029-a5ea-c1e27b34c6d7" tvg-name="Global TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png" group-title="Bnagla",Global TV
+#EXTINF:-1 tvg-id="019de785-3980-7029-a5ea-c1e27b34c6d7" tvg-name="Global TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-global-tv-1080p-5ffc043912-095e7dad7b.png" group-title="Bnagla",Global TV
 https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
 #EXTINF:-1 tvg-id="GSeriesDrama.bd" tvg-name="G Series Drama" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-series-drama.png" tvg-chno="39" channel-id="GSeriesDrama.bd" tvg-country="BD" tvg-language="ben" group-title="Bnagla",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="mov.bollywood.old.in" tvg-name="Bollywood OLD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bollywood-old.png" tvg-chno="116" channel-id="mov.bollywood.old.in" tvg-country="IN" tvg-language="hin" group-title="Movies hindi",Bollywood OLD
 https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="MoviePunjab.in@SD" tvg-name="Movie Punjab" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/movie-punjab-720p.png" tvg-chno="143" channel-id="MoviePunjab.in@SD" tvg-country="IN" tvg-language="pan" group-title="Bnagla",Movie Punjab
+#EXTINF:-1 tvg-id="MoviePunjab.in@SD" tvg-name="Movie Punjab" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-movie-punjab-720p-82d197a4e5.png" tvg-chno="143" channel-id="MoviePunjab.in@SD" tvg-country="IN" tvg-language="pan" group-title="Bnagla",Movie Punjab
 https://samitaorigin.tangotv.in/MOVIEPUNJAB/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="TamilVisionTV.ca@SD" tvg-name="TamilVision-TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tamilvision-tv-1080p.png" channel-id="TamilVisionTV.ca@SD" tvg-country="CA" tvg-language="tam" group-title="Bnagla",TamilVision-TV
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-name="Pitaara" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-720p-b8ea7f3162.png" tvg-chno="148" channel-id="Pitaara.in@SD" tvg-country="IN" tvg-language="pan" group-title="Bnagla",Pitaara
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+#EXTINF:-1 tvg-id="TamilVisionTV.ca@SD" tvg-name="TamilVision-TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/tamilvision-tv-1080p.png" channel-id="TamilVisionTV.ca@SD" tvg-country="CA" tvg-language="tam" tvg-chno="56" group-title="Bnagla",TamilVision-TV
 https://live.cmr24.fm/TVI/HD/chunks.m3u8
 #EXTINF:-1 tvg-id="ETVBeats.in@HD" tvg-name="ETV Beats" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/etv-beats-1080p-aa1d38c3fd.png" tvg-chno="185" channel-id="ETVBeats.in@HD" tvg-country="IN" tvg-language="tel" group-title="Indian music",ETV Beats
 https://jmp2.uk/stvp-IN4900002RV
@@ -74,15 +76,13 @@ https://jmp2.uk/stvp-IN4900002RV
 https://cdn.pishow.tv/ott/live/1213/master.m3u8
 #EXTINF:-1 tvg-id="CMalayalamTV.ca@SD" tvg-name="C Malayalam TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/c-malayalam-tv-1080p-3b1c6293f5.png" tvg-chno="236" channel-id="CMalayalamTV.ca@SD" tvg-country="CA" tvg-language="mal" group-title="Indian entertainment",C Malayalam TV
 https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
-#EXTINF:-1 tvg-id="MetroTV.in@SD" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/metro-tv-1080p-ee3f23e15b.png" tvg-chno="309" channel-id="MetroTV.in@SD" tvg-country="IN" tvg-language="tel" group-title="Indian entertainment",Metro TV
-https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
-#EXTINF:-1 tvg-id="SwastikStories.in@SD" tvg-name="Swastik Stories" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/swastik-stories-1080p.png" tvg-chno="359" channel-id="SwastikStories.in@SD" tvg-country="IN" tvg-language="hin" group-title="Indian entertainment",Swastik Stories
+#EXTINF:-1 tvg-id="SwastikStories.in@SD" tvg-name="Swastik Stories" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-swastik-stories-1080p-d99d9d4cd5.png" tvg-chno="359" channel-id="SwastikStories.in@SD" tvg-country="IN" tvg-language="hin" group-title="Indian entertainment",Swastik Stories
 https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8
-#EXTINF:-1 tvg-id="BolEntertainment.pk@SD" tvg-name="Bol Entertainment" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bol-entertainment.png" channel-id="BolEntertainment.pk@SD" tvg-country="PK" tvg-language="urd" group-title="Bnagla",Bol Entertainment
+#EXTINF:-1 tvg-id="BolEntertainment.pk@SD" tvg-name="Bol Entertainment" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bol-entertainment.png" channel-id="BolEntertainment.pk@SD" tvg-country="PK" tvg-language="urd" tvg-chno="299" group-title="Bnagla",Bol Entertainment
 https://vodzong.mjunoon.tv:8087/streamtest/Channel5-159-4/playlist.m3u8
-#EXTINF:-1 tvg-id="SeeTV.pk" tvg-name="See TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/see-tv.png" channel-id="SeeTV.pk" tvg-country="PK" tvg-language="urd" group-title="Bnagla",See TV
+#EXTINF:-1 tvg-id="SeeTV.pk" tvg-name="See TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/see-tv.png" channel-id="SeeTV.pk" tvg-country="PK" tvg-language="urd" tvg-chno="366" group-title="Bnagla",See TV
 https://vodzong.mjunoon.tv:8087/streamtest/SeeTV-156/playlist.m3u8
-#EXTINF:-1 tvg-id="WasebTV.pk" tvg-name="Waseb TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/waseb-tv.png" channel-id="WasebTV.pk" tvg-country="PK" tvg-language="urd" group-title="Bnagla",Waseb TV
+#EXTINF:-1 tvg-id="WasebTV.pk" tvg-name="Waseb TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/waseb-tv.png" channel-id="WasebTV.pk" tvg-country="PK" tvg-language="urd" tvg-chno="712" group-title="Bnagla",Waseb TV
 https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8
 #EXTINF:-1 tvg-id="custom.4evercinema" tvg-name="4ever Cinema" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/4ever-cinema-1080p-46222eea9d.png" tvg-chno="391" channel-id="custom.4evercinema" tvg-country="US" tvg-language="eng" group-title="Bnagla",4ever Cinema
 http://stream.mcquack.net/258/index.m3u8
@@ -90,28 +90,22 @@ http://stream.mcquack.net/258/index.m3u8
 http://stream.mcquack.net/257/index.m3u8
 #EXTINF:-1 tvg-id="custom.24hourfreemovies" tvg-name="24 Hour Free Movies" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/24-hour-free-movies-720p-2a4fdea7cd.png" tvg-chno="389" channel-id="custom.24hourfreemovies" tvg-country="US" tvg-language="eng" group-title="News",24 Hour Free Movies
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
-#EXTINF:-1 tvg-id="30AMusic.us" tvg-name="30A Music" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/30a-music-720p-950f250b00.png" tvg-chno="390" channel-id="30AMusic.us" tvg-country="US" tvg-language="eng" group-title="Indian music",30A Music
-https://30a-tv.com/music.m3u8
 #EXTINF:-1 tvg-id="custom.eumusic" tvg-name="EU Music" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/eu-music-1080p-bd9e22bbe8.png" tvg-chno="413" channel-id="custom.eumusic" tvg-country="UA" tvg-language="ukr" group-title="Indian music",EU Music
 http://stream.mcquack.net/261/index.m3u8
-#EXTINF:-1 tvg-id="GravitasMovies.us" tvg-name="Gravitas Movies" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gravitas-movies-1080p-0311d486e7.png" tvg-chno="416" channel-id="GravitasMovies.us" tvg-country="US" tvg-language="eng" group-title="Bnagla",Gravitas Movies
-https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
-#EXTINF:-1 tvg-id="GREATmovies.uk" tvg-name="GREAT! Movies" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/great-movies-1080p-9cc0399e3e.png" tvg-chno="417" channel-id="GREATmovies.uk" tvg-country="GB" tvg-language="eng" group-title="Bnagla",GREAT! Movies
-https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="GREATromance.uk" tvg-name="GREAT! Romance" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/great-romance-1080p-7315cca1df.png" tvg-chno="418" channel-id="GREATromance.uk" tvg-country="GB" tvg-language="eng" group-title="Bnagla",GREAT! Romance
-https://amg01753-narrativeentert-greatchristmas-samsunguk-8atls.amagi.tv/playlist/amg01753-narrativeentert-greatchristmas-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-name="MovieSphere" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/moviesphere-1080p-4c7e63bbc6.png" tvg-chno="429" channel-id="MovieSphere.us" tvg-country="US" tvg-language="eng;por;deu;spa;fra" group-title="Bnagla",MovieSphere
-https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
 #EXTINF:-1 tvg-id="custom.moviesphereau" tvg-name="MovieSphere AU" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/moviesphere-au-1080p-1b23bc91d7.png" tvg-chno="430" channel-id="custom.moviesphereau" tvg-country="AU" tvg-language="eng" group-title="Bnagla",MovieSphere AU
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.us@SD" tvg-name="MyTime Movie Network (US)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mytime-movie-network.png" channel-id="MyTimeMovieNetwork.us@SD" tvg-country="US" tvg-language="eng" tvg-chno="434" group-title="Bnagla",MyTime Movie Network (US)
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.us@SD" tvg-name="MyTime Movie Network (US)" channel-id="MyTimeMovieNetwork.us@SD" tvg-country="US" tvg-language="eng" tvg-chno="434" group-title="Bnagla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mytime-movie-network.png",MyTime Movie Network (US)
 https://mytime-tcl.amagi.tv/1080p-en-cc/index.m3u8
+#EXTINF:-1 tvg-id="NOW80s.us" tvg-name="NOW 80s" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/now-80s-1080p-90e990d562.png" tvg-chno="437" channel-id="NOW80s.us" tvg-country="GB" tvg-language="eng" group-title="Bnagla",NOW 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="POPWorldTV.es" tvg-name="POP World TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pop-world-tv-720p-3faede8b6c.png" tvg-chno="441" channel-id="POPWorldTV.es" tvg-country="ES" tvg-language="eng" group-title="Bnagla",POP World TV
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-name="Rakuten TV Action Movies UK" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rakuten-tv-action-movies-uk-1080p-75f2eea4ce.png" tvg-chno="444" channel-id="RakutenTVActionMovies.es@UK" tvg-country="GB" tvg-language="eng" group-title="Sports",Rakuten TV Action Movies UK
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1 tvg-id="RetroMusicTV.cz" tvg-name="Retro Music TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/retro-music-tv-1080p-610715c3c9.png" tvg-chno="448" channel-id="RetroMusicTV.cz" tvg-country="CZ" tvg-language="ces" group-title="Indian music",Retro Music TV
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@UK" tvg-name="Rakuten TV Comedy Movies UK" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rakuten-tv-comedy-movies-uk-1080p.png" tvg-chno="445" channel-id="RakutenTVComedyMovies.es@UK" tvg-country="GB" tvg-language="eng" group-title="Sports",Rakuten TV Comedy Movies UK
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@UK" tvg-name="Rakuten TV Family Movies UK" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-rakuten-tv-family-movies-uk-1080p-166043b571.png" tvg-chno="446" channel-id="RakutenTVFamilyMovies.es@UK" tvg-country="GB" tvg-language="eng" group-title="Sports",Rakuten TV Family Movies UK
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/master.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.in" tvg-name="Sony Movies" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-movies-563051ab.png" tvg-chno="451" channel-id="SonyMovies.in" tvg-country="IN" tvg-language="eng" group-title="Bnagla",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysLatinPop.ca" tvg-name="Stingray Today's Latin Pop" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/stingray-today-s-latin-pop-1080p-4cd367dd93.png" tvg-chno="459" channel-id="StingrayTodaysLatinPop.ca" tvg-country="CA" tvg-language="eng" group-title="Bnagla",Stingray Today's Latin Pop
@@ -120,8 +114,6 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="custom.totalmusicdance" tvg-name="Totalmusic Dance" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/totalmusic-dance-1080p-47a0a56822.png" tvg-chno="462" channel-id="custom.totalmusicdance" tvg-country="US" tvg-language="eng" group-title="Indian music",Totalmusic Dance
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="XITEHits.nl" tvg-name="XITE Hits" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/xite-hits-1080p-bf41ee4788.png" tvg-chno="473" channel-id="XITEHits.nl" tvg-country="NL" tvg-language="eng;deu;nld" group-title="Bnagla",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 #EXTINF:-1 tvg-id="XITEHits.nl@UK" tvg-name="XITE Hits UK" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/xite-hits-uk-1080p-bf41ee4788.png" tvg-chno="474" channel-id="XITEHits.nl@UK" tvg-country="GB" tvg-language="eng" group-title="Bnagla",XITE Hits UK
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="WildEarth.za" tvg-name="WildEarth" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/wildearth.png" tvg-chno="532" channel-id="WildEarth.za" tvg-country="ZA" tvg-language="eng" group-title="documentary",WildEarth
@@ -130,19 +122,51 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 https://dltiqboxjw21d.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us" tvg-name="beIN SPORTS XTRA" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bein-sports-xtra.png" tvg-chno="609" channel-id="beINSPORTSXTRA.us" tvg-country="US" tvg-language="eng" group-title="Sports",beIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-name="InTrouble" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/introuble-1080p.png" tvg-chno="637" channel-id="InTrouble.nl@SD" tvg-country="NL" tvg-language="eng" group-title="Sports",InTrouble
+#EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-name="InTrouble" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-introuble-1080p-a10859438e.png" tvg-chno="637" channel-id="InTrouble.nl@SD" tvg-country="NL" tvg-language="eng" group-title="Sports",InTrouble
 https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimaxAsia.sg@India" tvg-name="Animax Asia India" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/animax-asia-india-1080p-geo-blocked.png" channel-id="AnimaxAsia.sg@India" tvg-country="IN" tvg-language="und" group-title="Bnagla",Animax Asia India
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="Doraemon.us@SD" tvg-name="Doraemon" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/doraemon-720p.png" channel-id="Doraemon.us@SD" tvg-country="US" tvg-language="eng" group-title="Bnagla",Doraemon
-https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ShekinahTV.in@SD" tvg-name="Shekinah TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shekinah-tv-1080p.png" channel-id="ShekinahTV.in@SD" tvg-country="IN" tvg-language="eng" group-title="Bnagla",Shekinah TV
-https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Shinchan.us@SD" tvg-name="Shin-chan" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/shin-chan-720p.png" channel-id="Shinchan.us@SD" tvg-country="US" tvg-language="eng" group-title="Bnagla",Shin-chan
-https://live20.bozztv.com/giatvplayout7/giatv-210780/index.m3u8
-#EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-name="Travelxp HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/travelxp-hd-1080p-geo-blocked.png" channel-id="Travelxp.in@HD" tvg-country="IN" tvg-language="eng" group-title="documentary",Travelxp HD
-https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_11" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" tvg-chno="21" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_11
+#EXTINF:-1 tvg-id="BTLTV.nl@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/btl-tv-netherlands-1080p.png" tvg-name="BTL TV (Netherlands) (1080p)" tvg-language="eng;pan;urd" group-title="Bnagla",BTL TV (Netherlands) (1080p)
+https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/cartoon-network-pakistan.png" tvg-name="Cartoon Network (Pakistan)" tvg-language="eng;urd" group-title="Kids",Cartoon Network (Pakistan)
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
+#EXTINF:-1 tvg-id="VoktaTV.bd@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/vokta-tv-720p.png" tvg-name="Vokta TV (720p)" tvg-language="ben" group-title="Bnagla",Vokta TV (720p)
+https://vokta.raytahost.com/live/voktatv/index.m3u8
+#EXTINF:-1 tvg-id="GaundaPunjabTV.ca@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/gaunda-punjab-tv-720p.png" tvg-name="Gaunda Punjab TV (720p)" tvg-language="pan" group-title="Bnagla",Gaunda Punjab TV (720p)
+http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kabaddi24x7.in@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/kabaddi-24x7-720p.png" tvg-name="Kabaddi 24x7 (720p)" tvg-language="hin" group-title="News",Kabaddi 24x7 (720p)
+https://samitaorigin.tangotv.in/KABADDI24X7/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="NDTVGoodTimes.in@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ndtv-good-times-1080p.png" tvg-name="NDTV Good Times (1080p)" tvg-language="eng;hin" group-title="Bnagla",NDTV Good Times (1080p)
+https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="PunjabPlus.in@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-punjab-plus-1080p-8d4d950f36.png" tvg-name="Punjab Plus (1080p)" tvg-language="und" group-title="Bnagla",Punjab Plus (1080p)
+https://punjabplustv.akamaized.net/punjabplustv/master.m3u8
+#EXTINF:-1 tvg-id="QelloConcertsbyStingray.ca@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/qello-concerts-by-stingray-1080p.png" tvg-name="Qello Concerts by Stingray (1080p)" tvg-language="eng" group-title="Bnagla",Qello Concerts by Stingray (1080p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="RPlus.in@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/r-plus-1080p.png" tvg-name="R Plus (1080p)" tvg-language="ben" group-title="Bnagla",R Plus (1080p)
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5dcc9dc-3a33-4b19-a361-5a5b3aa022f7/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sports-ten-3-hindi.png" tvg-name="Sony Sports Ten 3 Hindi (1080p)" tvg-language="eng;hin" group-title="Sports",Sony Sports Ten 3 Hindi (1080p)
+https://r2.amml.in/sony-ten-3-hd/live.m3u8
+#EXTINF:-1 tvg-id="VTU.in@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/vtu-1080p.png" tvg-name="VTU (1080p)" tvg-language="und" group-title="Bnagla",VTU (1080p)
+https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8
+#EXTINF:-1 tvg-id="ZodiakTV.in@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zodiak-tv-1080p.png" tvg-name="Zodiak TV (1080p)" tvg-language="ben" group-title="Bnagla",Zodiak TV (1080p)
+https://ranacable.duckdns.org/ZodiakTv/index.m3u8
+#EXTINF:-1 tvg-id="NANTV.bd@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nan-tv-720p.png" tvg-name="NAN TV (720p)" tvg-language="ben" group-title="Bnagla",NAN TV (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in@HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/colors-bangla.png" tvg-name="Colors Bangla HD (1080p)" tvg-language="ben" group-title="Indian Bangla",Colors Bangla HD (1080p)
+http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
+#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-national.png" tvg-name="DD National HD (1080p)" tvg-language="hin" group-title="Bnagla",DD National HD (1080p)
+https://fta.ektv.in/live/15/master.m3u8
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@English" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mr-bean-animated.png" tvg-name="Mr Bean Animated (1080p)" tvg-language="eng" group-title="Bnagla",Mr Bean Animated (1080p)
+https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OliTV.in@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/oli-tv-india-b4a7917c53.png" tvg-name="Oli TV (India) (1080p)" tvg-language="tam" group-title="Bnagla",Oli TV (India) (1080p)
+https://hlslive.olidigital.in/olitv/olitv/index.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-yay-1080p.png" tvg-name="Sony Yay! (1080p)" tvg-language="ben;eng;hin;kan;mal;mar;ori;tam;tel" group-title="Bnagla",Sony Yay! (1080p)
+https://r2.amml.in/sony-yay/live.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@4KHDR" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/travelxp-4k-hdr-2160p-geo-blocked-ce9f4d3118.png" tvg-name="Travelxp 4K HDR (2160p) [Geo-blocked]" tvg-language="und" group-title="documentary",Travelxp 4K HDR (2160p) [Geo-blocked]
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+#EXTINF:-1 channel-id="NANTV.bd@SD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nan-tv-720p.png" tvg-id="NANTV.bd@SD" tvg-name="NAN TV" tvg-language="ben" tvg-country="BD" group-title="Bnagla",NAN TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nantv.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-name="Sony Yay!" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-yay-1080p.png" channel-id="SonyYay.in@SD" tvg-country="IN" tvg-language="hin" group-title="Bnagla",Sony Yay!
+https://livetv.shamon-cable.net:8443/sony_yay/index.m3u8
+#EXTINF:-1 tvg-id="Channel9.bd" tvg-name="Channel 9_13" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-9.png" tvg-chno="21" channel-id="Channel9.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Channel 9_13
 https://nkafmbewiff.gpcdn.net/tile_7/1080p.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.in@SD" tvg-name="Animal Planet HD_138" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/animal-planet.png" channel-id="AnimalPlanet.in@SD" tvg-country="IN" tvg-language="eng;hin;tam" group-title="Back channel",Animal Planet HD_138
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
@@ -154,19 +178,33 @@ https://live-bhojpuri.akamaized.net/liveabr/pub-iobhojpuqbu6yj/live_720p/chunks.
 https://live-dangal.akamaized.net/liveabr/pub-iodang10p4al/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="fox.sports.com" tvg-name="FOX Sports_310" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/fox-sports.png" channel-id="fox.sports.com" tvg-country="US" tvg-language="eng" group-title="Back channel",FOX Sports_310
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_317" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_317
+#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_317" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-global-tv-1080p-5ffc043912-095e7dad7b.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_317
 http://116.204.149.16/globaltv/index.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_318" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_318
+#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_318" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-global-tv-1080p-5ffc043912-095e7dad7b.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_318
 http://116.204.149.16/globaltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="JalwaTV.pk@SD" tvg-name="Jalwa TV_352" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jalwa-tv.png" channel-id="JalwaTV.pk@SD" tvg-country="PK" tvg-language="urd" group-title="Back channel",Jalwa TV_352
 https://vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/live/135M/chunks.m3u8
-#EXTINF:-1 tvg-id="MoviePunjab.in@SD" tvg-name="Movie Punjab_404" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/movie-punjab-720p.png" channel-id="MoviePunjab.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Movie Punjab_404
+#EXTINF:-1 tvg-id="MoviePunjab.in@SD" tvg-name="Movie Punjab_404" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-movie-punjab-720p-82d197a4e5.png" channel-id="MoviePunjab.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Movie Punjab_404
 https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-name="Pitaara_435" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-720p-b8ea7f3162.png" channel-id="Pitaara.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Pitaara_435
+https://d3i5c1nmken8bh.cloudfront.net/Live/Pitaara_TV_SCTE/playlist.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-name="Pitaara_436" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-720p-b8ea7f3162.png" channel-id="Pitaara.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Pitaara_436
+https://fta.ektv.in/live/352/master.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-name="Pitaara_437" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-720p-b8ea7f3162.png" channel-id="Pitaara.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Pitaara_437
+https://mumt04.tangotv.in/m18aqlK4PITAARA/index.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-name="Pitaara_438" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-720p-b8ea7f3162.png" channel-id="Pitaara.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Pitaara_438
+https://pitaara-lg.vgcdn.net/v1/vglive-sk-326599/playlist.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-name="Pitaara_439" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-720p-b8ea7f3162.png" channel-id="Pitaara.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Pitaara_439
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index_5.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-name="Pitaara_440" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-720p-b8ea7f3162.png" channel-id="Pitaara.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Pitaara_440
+https://streams.tangotv.in/PITAARA/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="Pitaara.in@SD" tvg-name="Pitaara_441" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pitaara-720p-b8ea7f3162.png" channel-id="Pitaara.in@SD" tvg-country="IN" tvg-language="pan" group-title="Back channel",Pitaara_441
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
 #EXTINF:-1 tvg-id="RajMusixTelugu.in@SD" tvg-name="Raj Musix Telugu_477" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/raj-musix-telugu-720p-e8fd0fb178.png" channel-id="RajMusixTelugu.in@SD" tvg-country="IN" tvg-language="tel" group-title="Back channel",Raj Musix Telugu_477
 https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8
 #EXTINF:-1 tvg-id="custom.sportsgrid" tvg-name="Sports Grid_532" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sports-grid.png" channel-id="custom.sportsgrid" tvg-country="US" tvg-language="eng" group-title="Back channel",Sports Grid_532
 https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_624" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_624
+#EXTINF:-1 tvg-id="GlobalTV.bd" tvg-name="Global TV_624" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-global-tv-1080p-5ffc043912-095e7dad7b.png" channel-id="GlobalTV.bd" tvg-country="BD" tvg-language="ben" group-title="Back channel",Global TV_624
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 #EXTINF:-1 tvg-id="MTV.in@SD" tvg-name="MTV India_642" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mtv-india-hd-720p.png" channel-id="MTV.in@SD" tvg-country="IN" tvg-language="hin" group-title="Back channel",MTV India_642
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
