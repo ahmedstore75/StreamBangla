@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-21 10:23:23 (BD Time)
-# 📺 Channels Count: 1946
+# 🕒 Last Updated: 2026-11-21 19:45:34 (BD Time)
+# 📺 Channels Count: 1949
 #=================================
 
 #EXTINF:-1 group-title="Sports" tvg-name="Live Cricket" tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg",Live Cricket
@@ -1200,12 +1200,8 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Cricket", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 2
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19206" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948297391020x576.jpg" group-title="Cricket", Hobart Hurricanes vs Sydney Thunder - Group Stage - Women's Big Bash League 2026
-https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-20302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949900031020x576.jpg" group-title="Racing", FIA F4 World Cup - Day 1 - Race - Macau Grand Prix 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20241" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951721811020x576.jpg" group-title="Football", Alaves vs Deportivo - MATCHDAY 13 - LaLiga 2026/27
+https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV
 https://iptv-proxy.ahmed-bd-org.workers.dev/btv/index.m3u8
 #EXTINF:-1 tvg-id="btv-world" tvg-name="BTV WORLD" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV WORLD
@@ -2728,8 +2724,12 @@ http://iptv.prosto.tv:7000/ch109/video.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/60ab07b02a2942498cdd81f045a625a1/index.m3u8
 #EXTINF:-1 tvg-id="MNX.in@SD" tvg-name="MNX (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mnx.png" group-title="Bnagla" x-discovery-source-country="IN",MNX (576p)
 http://116.90.120.149:8000/play/a11e/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.in@SD" tvg-name="Nick Jr. (India) (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nick-jr-india.png" group-title="Kids" x-discovery-source-country="BD",Nick Jr. (India) (576p)
-http://103.135.253.32:8080/NICK-Jr/index.m3u8
+#EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-name="Star Gold 2 (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-2.png" tvg-country="IN" group-title="Movies hindi" x-discovery-source-country="IN",Star Gold 2 (576p)
+http://116.90.120.149:8000/play/a12b/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-name="Star Gold Romance (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-romance-c5fa568b2f3a21118f2b.png" tvg-country="IN" group-title="Movies hindi" x-discovery-source-country="IN",Star Gold Romance (576p)
+http://116.90.120.149:8000/play/a12c/index.m3u8
+#EXTINF:-1 tvg-id="ZeeClassic.in@SD" tvg-name="Zee Classic (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-classic-60a1348c57a3a772d876.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Zee Classic (576p)
+http://116.90.120.149:8000/play/a121/index.m3u8
 #EXTINF:-1 tvg-id="DDKashir.in@SD" tvg-name="DD Kashir (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dd-kashir.png" group-title="Bnagla" x-discovery-source-country="IN",DD Kashir (576p)
 https://cdn.pishow.tv/ott/live/16/master.m3u8
 #EXTINF:-1 tvg-id="MHOne.in@SD" tvg-name="MH One (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mh-one.png" group-title="Bnagla" x-discovery-source-country="IN",MH One (576p)
@@ -2740,6 +2740,12 @@ https://fta.ektv.in/live/351/master.m3u8
 https://fta.ektv.in/live/639/master.m3u8
 #EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-name="Nepal 1 (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/nepal-1.png" group-title="Bnagla" x-discovery-source-country="IN",Nepal 1 (576p)
 https://cdn.pishow.tv/ott/live/1490/master.m3u8
+#EXTINF:-1 tvg-id="ApnaPunjabTV.in@SD" tvg-name="Apna Punjab TV (India) (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/apna-punjab-tv-india-23af30c75dadda3dde96.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Apna Punjab TV (India) (576p)
+https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-name="Sony Sports Ten 5 (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sony-sports-ten-5.png" tvg-country="IN" group-title="Sports" x-discovery-source-country="IN",Sony Sports Ten 5 (576p)
+http://116.90.120.149:8000/play/a117/index.m3u8
+#EXTINF:-1 tvg-id="Unite8Sports1.in@SD" tvg-name="Unite8 Sports 1 (576p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/unite8-sports-1-c39b236b6693e186f49c.png" tvg-country="IN" group-title="Sports" x-discovery-source-country="IN",Unite8 Sports 1 (576p)
+http://116.90.120.149:8000/play/a11l/index.m3u8
 #EXTINF:-1 tvg-id="AndPictures.in@SD" tvg-name="&pictures" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pictures.png" channel-id="AndPictures.in@SD" tvg-country="IN" tvg-language="hin" group-title="Bnagla",&pictures
 http://103.135.253.32:8080/PICTURE-HD/index.m3u8
 #EXTINF:-1 tvg-id="AMNTV.in@SD" tvg-name="AMN TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/amn-tv.png" channel-id="AMNTV.in@SD" tvg-country="IN" tvg-language="tam" group-title="Bnagla",AMN TV
