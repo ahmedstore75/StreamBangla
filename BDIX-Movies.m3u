@@ -4,8 +4,8 @@
 # 🎬 Movies & On-Demand Playlist
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-26 02:44:03 (BD Time)
-# 🍿 Movies Count: 97
+# 🕒 Last Updated: 2026-11-26 09:48:47 (BD Time)
+# 🍿 Movies Count: 96
 #=================================
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png",Enter 10 Bangla
@@ -136,6 +136,10 @@ https://live.skystream.in/live/southvsnklm/index.m3u8
 https://online.wayanadvision.in/hls/wvmovies.m3u8
 #EXTINF:-1 tvg-id="WayanadVisionPlus.in@SD" tvg-name="Wayanad Vision Plus (720p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/wayanad-vision-plus-82bd345c3914db6ab3e2.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Wayanad Vision Plus (720p)
 https://online.wayanadvision.in/hls/streaming1.m3u8
+#EXTINF:-1 tvg-id="MalabarPlus.in@SD" tvg-name="Malabar Plus (720p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/malabar-plus-d6e579c29354453addc3.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Malabar Plus (720p)
+http://cloud.logichost.in:1935/live/mplus/index.m3u8
+#EXTINF:-1 tvg-id="Thanima.in@SD" tvg-name="Thanima (1080p)" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/thanima-83afbf82b637391714f3.png" tvg-country="IN" group-title="Bnagla" x-discovery-source-country="IN",Thanima (1080p)
+https://live.skystream.in/live/thanimatvtvm/index.m3u8
 #EXTINF:-1 tvg-id="custom.4evercinema" tvg-name="4ever Cinema" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/4ever-cinema-1080p-46222eea9d.png" channel-id="custom.4evercinema" tvg-country="US" tvg-language="eng" group-title="Bnagla",4ever Cinema
 http://stream.mcquack.net/258/index.m3u8
 #EXTINF:-1 tvg-id="custom.4evermusic" tvg-name="4ever Music" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/4ever-music-1080p-0f54facdb8.png" channel-id="custom.4evermusic" tvg-country="US" tvg-language="eng" group-title="Indian music",4ever Music
@@ -156,8 +160,6 @@ https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
 https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-name="Rakuten TV Action Movies UK" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rakuten-tv-family-movies-uk-1080p.png" channel-id="RakutenTVActionMovies.es@UK" tvg-country="GB" tvg-language="eng" group-title="Sports",Rakuten TV Action Movies UK
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-star-gold-hd-1080p-f2178a885b.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Movies hindi",Star Gold HD
-http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in" tvg-name="Star Movies (India) HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-movies-india-hd-1080p.png" channel-id="StarMovies.in" tvg-country="IN" tvg-language="eng" group-title="Bnagla",Star Movies (India) HD
 http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@4KHDR" tvg-name="Travelxp 4K HDR" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/travelxp-hd-1080p-geo-blocked.png" channel-id="Travelxp.in@4KHDR" tvg-country="IN" tvg-language="mul" group-title="documentary" x-discovery-source-country="IN",Travelxp 4K HDR
@@ -194,10 +196,6 @@ https://stream.ottplus.live/live/global_tv_abr/index.m3u8
 https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
 #EXTINF:-1 tvg-id="MTV.in@HD" tvg-name="MTV India_607" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mtv-india-hd-720p.png" channel-id="MTV.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",MTV India_607
 http://116.90.120.149:8000/play/a136/index.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD_633" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-star-gold-hd-1080p-f2178a885b.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Star Gold HD_633
-http://103.185.24.134:3001/Star-Gold/index.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD_634" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/verified-star-gold-hd-1080p-f2178a885b.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Star Gold HD_634
-http://116.90.120.149:8000/play/a12a/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-name="Star Movies (India) HD_638" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-movies-india-hd-1080p.png" channel-id="StarMovies.in@HD" tvg-country="IN" tvg-language="eng" group-title="Back channel",Star Movies (India) HD_638
 http://116.90.120.149:8000/play/a13a/index.m3u8
 #EXTINF:-1 tvg-id="Travelxp.in@HD" tvg-name="Travelxp 4K HDR_650" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/travelxp-hd-1080p-geo-blocked.png" channel-id="Travelxp.in@HD" tvg-country="IN" tvg-language="eng" group-title="Back channel",Travelxp 4K HDR_650

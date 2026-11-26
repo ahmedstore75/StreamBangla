@@ -3,8 +3,8 @@
 #=================================
 # 🖥️ Developed by: Ahammad Ali
 # 🔗 Telegram: https://t.me/banglatvlivefree
-# 🕒 Last Updated: 2026-11-26 02:44:03 (BD Time)
-# 📺 Channels Count: 1975
+# 🕒 Last Updated: 2026-11-26 09:48:47 (BD Time)
+# 📺 Channels Count: 1972
 #=================================
 
 #EXTINF:-1 group-title="Sports" tvg-name="Live Cricket" tvg-logo="https://i.ibb.co.com/rMBV1xX/images.jpg",Live Cricket
@@ -1210,18 +1210,6 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-name="RTVE 24H" tvg-logo="https://i.imgur.com/WTDKOoM.png" group-title="News (ES)",RTVE 24H
 https://ztnr.rtve.es/ztnr/1694255.m3u8
-#EXTINF:-1 tvg-id="tapmad-19608" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955125441020x576.jpg" group-title="Football", Al Taawoun FC (KSA) vs Al Nahda Club (OMA) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19408" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955076311020x576.jpg" group-title="Football", Lille vs Bayern Munchen - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19407" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955074151020x576.jpg" group-title="Football", Shakhtar Donetsk vs Fenerbahce - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19406" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955069111020x576.jpg" group-title="Football", Inter vs Stuttgart - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19405" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955067461020x576.jpg" group-title="Football", Club Brugge vs Liverpool - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19404" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955061471020x576.jpg" group-title="Football", Atletico Madrid vs Viking - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
 #EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV
 https://iptv-proxy.ahmed-bd-org.workers.dev/btv/index.m3u8
 #EXTINF:-1 tvg-id="btv-world" tvg-name="BTV WORLD" tvg-logo="http://198.195.239.50/img/channels/BTV.HD.png", BTV WORLD
@@ -2866,6 +2854,8 @@ https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playl
 http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-name="Star Gold 2" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-2.png" channel-id="StarGold2.in@SD" tvg-country="IN" tvg-language="hin" group-title="Movies hindi",Star Gold 2
 http://116.90.120.149:8000/play/a12b/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-star-gold-de06c8e974.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Movies hindi",Star Gold HD
+http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldRomance.in@SD" tvg-name="Star Gold Romance" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-romance-c5fa568b2f3a21118f2b.png" channel-id="StarGoldRomance.in@SD" tvg-country="IN" tvg-language="hin" group-title="Movies hindi",Star Gold Romance
 http://116.90.120.149:8000/play/a12c/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-name="Star Gold Select HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-select-fa81030f74.png" channel-id="StarGoldSelect.in@HD" tvg-country="IN" tvg-language="hin" group-title="Movies hindi",Star Gold Select HD
@@ -3912,6 +3902,10 @@ http://59.103.38.46:8000/play/a0ac/index.m3u8
 http://116.90.120.149:8000/play/a128/index.m3u8
 #EXTINF:-1 tvg-id="Spondon.in@SD" tvg-name="Spondon_632" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/spondon.png" channel-id="Spondon.in@SD" tvg-country="IN" tvg-language="asm" group-title="Back channel",Spondon_632
 https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD_633" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-star-gold-de06c8e974.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Star Gold HD_633
+http://103.185.24.134:3001/Star-Gold/index.m3u8
+#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="Star Gold HD_634" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/repaired-star-gold-de06c8e974.png" channel-id="StarGold.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Star Gold HD_634
+http://116.90.120.149:8000/play/a12a/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-name="Star Gold Select HD_635" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-gold-select-fa81030f74.png" channel-id="StarGoldSelect.in@HD" tvg-country="IN" tvg-language="hin" group-title="Back channel",Star Gold Select HD_635
 http://116.90.120.149:8000/play/a131/index.m3u8
 #EXTINF:-1 tvg-id="StarJalsha.in@HD" tvg-name="Star Jalsha_636" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-jalsha.png" channel-id="StarJalsha.in@HD" tvg-country="IN" tvg-language="ben" group-title="Back channel",Star Jalsha_636
